@@ -10,8 +10,19 @@ banner: homepage.png
   <div class="container">
     <div class="row justify-content-center">
       <div class="col col-10">
-        <h1 class="text-center display-1">Welcome.</h1>
+        <h2 class="text-center display-1">Welcome.</h2>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius, officia tenetur, rerum deserunt repellendus sapiente commodi magnam suscipit deleniti cupiditate nisi! Blanditiis voluptates pariatur nulla ex placeat consequatur earum cupiditate.</p>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col col-10">
+        <h2 class="text-center display-1">Issue No. 0</h2>
+        {% for page in site.num0 %}
+        <div class="page-item">
+          <h3><a href="{{site.baseurl}}{{ page.url }}">{{ page.title }}</a></h3>
+          <p>Author: {{ page.creators }}</p>
+        </div>
+        {% endfor %}
       </div>
     </div>
   </div>
