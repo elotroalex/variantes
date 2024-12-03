@@ -3,8 +3,7 @@ layout: page
 title: "Entonces… el mundo por fin se acaba"
 creators: "Aiden Hall"
 date: 2024-12-01
-image: bot1.jpg
-blurb: ""
+orden: 1
 bio: "¡Hola! Soy Aiden (él) y actualmente soy un estudiante en Yale estudiando bioingeniería. Soy un miembro de Branford College, y espero graduarme en 2027. Me fascinan todos tipos de ciencia, y cuando no estoy en el laboratorio, usualmente se puede encontrarme leyendo artículos de la institución nacional de salúd (la NIH). A veces, especialmente cuando estoy tratando de interpretar sentimientos complejos, escribo ficción. Ojalá le guste."
 ---
 
