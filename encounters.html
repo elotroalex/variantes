@@ -1,0 +1,58 @@
+---
+layout: custom
+title: "Encounters"
+banner: encounters.png
+---
+
+<div class="container">
+  <div class="row justify-content-center p-4">
+    <div class="col-8">
+      <h2 class="">Up next...</h2>
+      <p class="">
+        We host a wide array of public events and speakers, bringing together
+        writers, artists, public activists, scholars and more. Here are some of
+        our upcoming encounters.
+      </p>
+    </div>
+    <div class="row p-4">
+      <!-- liquid loop through pages in the collection 'encounters' -->
+      <!-- select the two pages with the closest dates in the future -->
+      <!-- end loop -->
+      {% assign encounters = site.encounters | where_exp: "item", "item.date >=
+      site.time" | sort: "date" %}{% for event in encounters %} {% include
+      event-card.html event=event %} {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="container mb-5">
+  <div class="row justify-content-center p-4">
+    <div class="col-8">
+      <h2>Have an idea for an event?</h2>
+      <p>
+        Is there someone you like to listen to? Learn from? Do you have an idea
+        for an imaginative format or encounter?
+        <a href="mailto:{{site.email}}">Let us know</a>!
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="bg-light pt-5 pb-5">
+  <div class="container">
+    <div class="row justify-content-center p-4">
+      <div class="col-8">
+        <h2 class="">Past encounters...</h2>
+        <!-- prettier-ignore -->
+
+        {% assign encounters = site.encounters | where_exp: "item", "item.date < site.time" | sort: "date" | reverse %}
+            {% for event in encounters %}
+        <span class="past-event lead"
+          ><a href="{{event.url}}">{{event.title}}</a> {% unless forloop.last
+          %}|{% endunless %}
+        </span>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

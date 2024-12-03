@@ -1,0 +1,108 @@
+---
+layout: default
+---
+
+<!-- Events Header -->
+<header
+  class="masthead event {% if page.banner %}banner{%else%}short{% endif %}"
+>
+  {% if page.banner %}
+  <div
+    class="parallax"
+    style="background-image: url('/images/encounters/{{page.banner}}'); background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom: 2px solid black;
+  height: 80vh;"
+  ></div>
+
+  {% endif %}
+</header>
+
+<div class="container mt-5 mb-5">
+  <div class="row align-items-center">
+    <div class="col-12 text-center text-white">
+      <span class="h3 text-muted pb-5">the creative forum presents...</span>
+      {% if page.series %}
+      <span class="fw-light series text-muted">{{page.series}}</span>
+      {% endif %}
+      <h1
+        class="fw-light display-3 text-primary"
+        data-mdb-toggle="animation"
+        data-mdb-animation-reset="true"
+        data-mdb-animation="fade-in-left"
+        data-mdb-animation-start="onLoad"
+      >
+        {{page.title | markdownify | remove: '<p>' |  remove: '</p>'  }}
+      </h1>
+
+      {% if page.subtitle %}
+      <p class="h1 display-5 text-warning">{{page.subtitle}}</p>
+      <br />
+      {% endif %} {% if page.featuring %}
+      <span class="h3 text-muted pb-5">featuring</span>
+      {% for person in page.featuring %}
+      <h2 class="fw-light display-4 text-primary text-right">{{person}}</h2>
+      {% endfor %} {% endif %} {% if page.with %}
+      <span class="h3 text-muted pb-5">with</span>
+      {% for person in page.with %}
+      <h2 class="fw-light display-5 text-muted text-right">{{person}}</h2>
+      {% endfor %} {% endif %}
+    </div>
+  </div>
+</div>
+
+<div class="container mb-5">
+  <div class="row justify-content-center mb-4">
+    <div class="col-8">
+      {% if page.date %}
+      <p class="date h2">{{page.date | date: "%A, %b %d, %Y"}}</p>
+      <p class="time h3 text-muted">{{page.start-time}} to {{page.end-time}}</p>
+      {% endif %} {% if page.end-date %}
+      <p class="date h2">{{page.end-date | date: "%A, %b %d, %Y"}}</p>
+      <p class="time h3 text-muted">{{page.end-date-time}}</p>
+      {% endif %}
+
+      <p class="location h3 text-secondary">{{page.location}}</p>
+    </div>
+  </div>
+  <div class="row justify-content-center mb-4">
+    <div class="col-sm-12 col-md-8">
+      {{content}}
+      <br />
+      <a
+        href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{page.title}}&details={{page.description}}&dates={{ page.calendar }}&location={{page.location}}"
+        target="_blank"
+        ><button type="button" class="btn btn-warning text-white">
+          Add to Calendar
+        </button></a
+      >
+
+      {% if page.zoom %}
+
+      <a href="{{page.zoom}}" class="ps-2" target="_blank"
+        ><button type="button" class="btn btn-warning text-white">
+          Zoom Registration
+        </button></a
+      >
+
+      {% endif %} {% if page.poster %}
+
+      <a
+        href="{{site.url}}/posters/{{page.poster}}"
+        class="ps-2"
+        target="_blank"
+        ><button type="button" class="btn btn-warning text-white">
+          Download Poster
+        </button></a
+      >
+
+      {% endif %} {% if page.caption %}
+
+      <hr class="mt-5" />
+      <div class="caption text-muted h6">{{page.caption | markdownify }}</div>
+      {% endif %}
+    </div>
+  </div>
+</div>

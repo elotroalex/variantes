@@ -1,0 +1,24 @@
+url: "https://creativeforum.yale.edu"
+title: "The Creative Forum"
+future: true
+
+owner: Yale Department of Spanish & Portuguese
+email: alex.gil@yale.edu
+
+collections:
+  encounters:
+    output: true
+  projects:
+    output: true
+  special:
+    output: true
+
+sass:
+  load_paths:
+    - _sass
+
+webrick:
+  headers:
+    Cache-Control: no-store, must-revalidate
+    Pragma: no-cache
+    Expires: 0

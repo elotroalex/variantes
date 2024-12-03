@@ -1,0 +1,22 @@
+---
+layout: custom
+title: "Neighbor Lunches"
+banner: affiliates.png
+card: affiliates.png
+---
+
+<div class="container mt-5">
+  <div class="row justify-content-center p-4">
+    <div class="col-8">
+      <h2>Yale University | Fall 2024 – Spring 2025</h2>
+
+      <p>This Fall and the coming Spring, we welcome back to our department our Affiliate Faculty neighbors. In this series we will break bread together with Faculty from many departments across the Arts & Sciences at Yale University. Prior to these dialogues, our guests will share with us recent or in progress works. We will offer them all the hospitality we can muster in the form of a warm meal, and even warmer dialogue. We look forward to catching up with each other!</p>
+    </div>
+  </div>
+  <div class="row p-4">
+    <!-- liquid loop through pages in the collection 'encounters' -->
+    <!-- select the two pages part of Iberian Connection -->
+    <!-- end loop -->
+    {% assign encounters = site.encounters | where: "series", "Neighbor Lunches" | sort: "date" %} {% for event in encounters %} {% include event-card.html event=event %} {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,144 @@
+---
+layout: home
+title: "The Creative Forum"
+subtitle: "at the Yale Department of Spanish & Portuguese"
+banner: homepage.png
+---
+
+<!-- Intro paragraph -->
+<div class="section bg-light p-4">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col col-10">
+        <h1 class="text-center display-1">Welcome.</h1>
+        <p>
+          Now more than ever, we are asked to think about our cultures and predicaments through a bevy of disciplines and lenses. The Creative Forum accepts the challenge. Our mission is simple: to bring together the creative arts and scholarship in closer dialogue with one another to help us better understand the worlds we inherit, and inspire us to create new ones. We do this fully conscious of our mediatic and computational moment. We do this together, in belonging to and for one another. We do this out of a need to repair masked as a choice to create. To our ends, we organize
+          <a href="/encounters.html">encounters</a>, run <a href="/programs.html">programs</a> and foster collaborative <a href="/ateliers.html">projects</a>. Welcome. We hope you join us.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Featured -->
+
+<div class="featured row border border-dark" style="">
+  <div class="col-md-6 flush-col">
+    <img src="/images/night-crossings.png" alt="" class="featured-img" />
+  </div>
+  <div class="col-md-6 text-center p-5" style="background-image: url('/images/encounters/arabesque.png')">
+    <div class="p-5">
+      <p class="h2 display-4 text-warning">Iberian Nights</p>
+      <p class="h3">Book Two: Crossings</p>
+      <p class="h4">Fall 2024 – Spring 2025</p>
+
+      <p>Inspired by the specters of Sheherazade, Dhuoda, Christine de Pizan, Teresa de Cartagena, the pequeñas mujeres rojas and so many others for whom the practice of literature was a matter of survival.</p>
+      <br />
+      <div class="row justify-content-md-center mt-3">
+        <div class="col">
+          <a href="/special/iberian-nights-book-two.html" class="card-link"><button type="button" class="btn btn-primary">Learn more</button></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="featured row border border-dark">
+  <div class="col-md-6 text-center p-5" style="background-image: url('/images/pattern.png')">
+    <div class="p-5">
+      <p class="h2 display-5 text-primary">Literary Bites</p>
+      <p class="h3">A Luncheon with a Plot Twist</p>
+      <p class="h4">Fall 2024 – Spring 2025</p>
+      <p>Feast your mind and spirit on a delectable fusion of literature and intellectual nourishment with "Literary Bites"—a Luncheon Series with a new plot twist each month.</p>
+      <br />
+      <div class="row justify-content-md-center mt-3">
+        <div class="col">
+          <a href="/special/literary-bites.html" class="card-link"><button type="button" class="btn btn-warning text-light">Learn more</button></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6 flush-col">
+    <img src="/images/litbites.png" alt="" class="featured-img" />
+  </div>
+</div>
+<div class="featured row border border-dark" style="">
+  <div class="col-md-6 flush-col">
+    <img src="/images/affiliates.png" alt="" class="featured-img" />
+  </div>
+  <div class="col-md-6 text-center p-5" style="background-image: url('/images/encounters/arabesque.png')">
+    <div class="p-5">
+      <p class="h2 display-5 text-warning">Neighbor Lunches</p>
+      <p class="h3">Fall 2024 – Spring 2025</p>
+      <p>A new series welcoming our affiliated faculty from other departments to our lunch table.</p>
+      <br />
+      <div class="row justify-content-md-center mt-3">
+        <div class="col">
+          <a href="/special/neighbor-lunches.html" class="card-link"><button type="button" class="btn btn-primary">Learn more</button></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Coming soon section -->
+<div class="section bg-white p-4 mt-4">
+  <div class="container">
+    <div class="row justify-content-center">
+      {% assign today = "today" | date: "%Y-%m-%d" %} {% assign count = "" | split: ',' %} {% for event in site.encounters %} {% assign when = event.date | date: "%Y-%m-%d" %} {% if when == today %}
+      <div class="col col-10 mb-3">
+        <h2 class="">Happening Today!</h2>
+        {% break %} {% endif %}{% endfor %}
+      </div>
+      <div class="row mb-5">{% for event in site.encounters %} {% assign when = event.date | date: "%Y-%m-%d" %} {% if when == today %}{% include event-card.html event=event %}{% endif %} {% endfor %}</div>
+      <div class="col col-10 mb-3">
+        <h2 class="">Up next...</h2>
+        <p class="">We host a wide array of public events and speakers, bringing together writers, artists, public activists, scholars and more. Here are some of our upcoming encounters. To see a full list of our past and future events, visit our <a href="/encounters.html">encounters</a> page.</p>
+      </div>
+      <div class="row">
+        <!-- liquid loop through pages in the collection 'encounters' -->
+        <!-- select the two pages with the closest dates in the future -->
+        <!-- end loop -->
+        {% assign encounters = site.encounters | where_exp: "item", "item.date >= site.time" | sort: "date" %} {% for event in encounters limit: 2 %} {% include event-card.html event=event %} {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+<div class="section bg-light p-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-8">
+        <h2 class="text-primary">Get involved</h2>
+        <p class="">We welcome all faculty, graduate researchers, undergraduate students and staff at Yale interested in the intersection of the creative arts and scholarship. Our doors are open to all collaborative, experimental, mobilized, public and digital humanities praxis. If you are interested in getting involved, please contact us.</p>
+        <p>
+          <a href="mailto:alex.gil@yale.edu"><button type="button" class="btn btn-outline-primary">Send us an email</button></a>
+        </p>
+      </div>
+      <div class="col-4">
+        <!-- <h3 class="text-primary">Got an idea?</h3>
+        <p class="">
+          We are always looking for new ideas and collaborators. Let us know
+          what you got in mind.
+        </p>
+        <p>
+          <a href="https://forms.gle/6Z1Z1Z1Z1Z1Z1Z1Z1" target="_blank"
+            ><button type="button" class="btn btn-outline-primary">
+              Your ideas
+            </button></a
+          >
+        </p> -->
+
+        <!-- <h3 class="text-primary">Stay up to date</h3>
+        <p class="">
+          Sign up for mailing list to receive updates on our events and
+          programs.
+        </p>
+        <p>
+          <a href="" target="_blank"
+            ><button type="button" class="btn btn-outline-primary">
+              Sign up
+            </button></a
+          >
+        </p> -->
+      </div>
+    </div>
+  </div>
+</div>
