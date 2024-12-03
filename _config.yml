@@ -1,16 +1,13 @@
 url: "https://creativeforum.yale.edu"
-title: "The Creative Forum"
+title: "Variantes"
 future: true
+baseurl: "/variantes"
 
 owner: Yale Department of Spanish & Portuguese
-email: alex.gil@yale.edu
+email: ana.fernandez-blazquez@yale.edu
 
 collections:
-  encounters:
-    output: true
-  projects:
-    output: true
-  special:
+  num0:
     output: true
 
 sass:
