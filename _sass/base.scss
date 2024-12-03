@@ -142,6 +142,8 @@ nav.scrolled {
     animation: fadeInAnimation ease-in 4s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
+    color: #00365b;
+    text-shadow: 3px 1px 3px black;
 }
 
 .masthead h1 {
@@ -185,9 +187,6 @@ nav.scrolled {
     font-size: 1.4rem;
 }
 
-.atspanport {
-    text-shadow: 5px 2px 5px black;
-}
 
 //  Featured Events
 
