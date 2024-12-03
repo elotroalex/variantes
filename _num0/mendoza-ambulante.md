@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: work
 title: "Ambulante"
 creators: "Alan Mendoza Sosa"
 date: 2024-12-01

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: work
 title: "Aquello que la selva oculta"
 creators: "Efrén Yzenga Martínez"
 date: 2024-12-01

@@ -1,37 +1,16 @@
 ---
-layout: page
+layout: work
 title: "Mudarse"
 creators: "Alex Roseman"
 date: 2024-12-01
 issue: 0
 orden: 3
-bio: "Alex Roseman (he/him) (BK \'25) is a senior in Yale College studying
-physics. Following graduation, he plans to spend his time working, at a
-job, which he will find and then have. He imagines this will involve
-health insurance somehow. His most recent favorite book is"
+bio: "Alex Roseman (he/him) (BK '25) is a senior in Yale College studying physics. Following graduation, he plans to spend his time working, at a job, which he will find and then have. He imagines this will involve health insurance somehow. His most recent favorite book is %%EDITORIAL%%."
 ---
 
-El primer día es un día tranquilo, calmado como la calma que precede a
-la tormenta, calmado como el susurro de _uno, dos, tres_, contando los
-segundos entre el rayo y el trueno. El rayo, porque el árbol que golpeó
-la casa vino de arriba, y porque fue acompañado por la lluvia, que hizo
-más daño a la casa de lo que jamás podría haber hecho el rayo. El
-trueno, porque dentro de siete días la casa necesita una limpieza total,
-para que los residentes---el padre, la madre y el niño---puedan mudarse
-a Filadelfia. En el séptimo día, los agentes de mudanzas vendrán y
-embalarán todo lo que no esté clavado, y luego sacarán los clavos y los
-embalarán también, además de los muebles. Sacarán los azulejos de los
-pisos y los pisos de la estructura, sacarán los cables de las paredes y
-pondrán cables nuevos, reemplazarán lo que está roto y lo que ya no
-sirve.
+El primer día es un día tranquilo, calmado como la calma que precede a la tormenta, calmado como el susurro de _uno, dos, tres_, contando los segundos entre el rayo y el trueno. El rayo, porque el árbol que golpeó la casa vino de arriba, y porque fue acompañado por la lluvia, que hizo más daño a la casa de lo que jamás podría haber hecho el rayo. El trueno, porque dentro de siete días la casa necesita una limpieza total, para que los residentes---el padre, la madre y el niño---puedan mudarse a Filadelfia. En el séptimo día, los agentes de mudanzas vendrán y embalarán todo lo que no esté clavado, y luego sacarán los clavos y los embalarán también, además de los muebles. Sacarán los azulejos de los pisos y los pisos de la estructura, sacarán los cables de las paredes y pondrán cables nuevos, reemplazarán lo que está roto y lo que ya no sirve.
 
-Pero el primer día es tranquilo. Se supone que el niño va a limpiar su
-cuarto. Los padres trabajan constantemente. Llaman a la compañía de
-seguros, a los constructores, al correo, a Airbnb y a la compañía de
-seguros otra vez. Los padres son asombrosamente educados, dado el estrés
-que sufren, aunque el niño preferiría que fueran más educados, porque
-hay diferencias en las normas de comportamiento entre un niño de 21 años
-y sus dos padres, quienes tienen derecho a Medicare.
+Pero el primer día es tranquilo. Se supone que el niño va a limpiar su cuarto. Los padres trabajan constantemente. Llaman a la compañía de seguros, a los constructores, al correo, a Airbnb y a la compañía de seguros otra vez. Los padres son asombrosamente educados, dado el estrés que sufren, aunque el niño preferiría que fueran más educados, porque hay diferencias en las normas de comportamiento entre un niño de 21 años y sus dos padres, quienes tienen derecho a Medicare.
 
 Para aclarar, en general, un niño de 21 años no es un niño, legalmente o
 de otra manera, y el niño aquí no es una excepción. Asiste a la

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: work
 title: "Entonces… el mundo por fin se acaba"
 creators: "Aiden Hall"
 date: 2024-12-01

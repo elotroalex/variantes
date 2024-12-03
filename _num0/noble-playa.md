@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: work
 title: "La playa enganosa"
 creators: "Clark Noble"
 date: 2024-12-01

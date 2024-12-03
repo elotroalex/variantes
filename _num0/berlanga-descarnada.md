@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: work
 title: "Descarnada"
 creators: "Ana Paula Berlanga "
 date: 2024-12-01

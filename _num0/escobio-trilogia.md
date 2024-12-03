@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: work
 title: "Trilogía del deshabitar"
 creators: "Cristina Isabel Escobio Rodríguez"
 date: 2024-12-01

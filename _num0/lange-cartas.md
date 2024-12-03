@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: work
 title: "Cartas a Antonia"
 creators: "Carrie, Jaidyn y Aaira"
 date: 2024-12-01
