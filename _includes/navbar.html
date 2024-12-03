@@ -1,67 +1,26 @@
-<nav
-  class="navbar navbar-expand-md navbar-light bg-light shadow fixed-top opacity-75"
->
+<nav class="navbar navbar-expand-md navbar-light bg-light shadow fixed-top opacity-75">
   <div class="container">
     <div>
-      <a class="h1 navbar-brand" href="{{ '/' | relative_url }}"
-        ><img
-          src="/images/logo.png"
-          height="30"
-          alt="Round logo with the letters Y, C, and F"
-          style="position: relative; top: -4px"
-      /></a>
-      <span
-        class="h4 {% if page.title == 'The Creative Forum' %}home-nav-title{% else %}nav-title{% endif %} text-dark"
-        ><a href="/" style="color: inherit; text-decoration: inherit"
-          >The Creative Forum</a
-        ></span
-      >
+      <a class="h1 navbar-brand" href="{{ '/' | relative_url }}"><img src="{{site.baseurl}}/images/logo.png" height="30" alt="Round logo with the letters Y, C, and F" style="position: relative; top: -4px" /></a>
+      <span class="h4 {% if page.title == 'Variantes' %}home-nav-title{% else %}nav-title{% endif %} text-dark"><a href="/" style="color: inherit; text-decoration: inherit">Variantes</a></span>
     </div>
-    <button
-      class="navbar-toggler"
-      type="button"
-      data-bs-toggle="collapse"
-      data-bs-target="#navbarSupportedContent"
-      aria-controls="navbarSupportedContent"
-      aria-expanded="false"
-      aria-label="Toggle navigation"
-    >
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul id="navigation-bar" class="navbar-nav ms-auto mb-2 mb-lg-0">
-        {% assign links = site.data.navigation %} {% for link in links %} {% if
-        link.sublinks %}
+        {% assign links = site.data.navigation %} {% for link in links %} {% if link.sublinks %}
         <li class="menu-item dropdown nav-item">
-          <a
-            href="#"
-            class="dropdown-button"
-            data-toggle="dropdown"
-            role="button"
-            aria-haspopup="true"
-            aria-expanded="false"
-            >{{ link.title }}
-            <span style="font-size: 0.66rem; padding-left: 0.2rem">
-              &#x25BC;</span
-            ></a
-          >
+          <a href="#" class="dropdown-button" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span style="font-size: 0.66rem; padding-left: 0.2rem"> &#x25BC;</span></a>
           <div class="dropdown-menu">
             {% for sublink in link.sublinks %}
-            <a
-              class="nav-link {% if sublink.url == page.url %}active{% endif %}"
-              href="{{ sublink.url }}"
-              >{{ sublink.title }}</a
-            >
+            <a class="nav-link {% if sublink.url == page.url %}active{% endif %}" href="{{ sublink.url }}">{{ sublink.title }}</a>
             {% endfor %}
           </div>
         </li>
         {% else %}
         <li class="menu-item nav-item">
-          <a
-            class="nav-link h4 {% if link.url == page.url %}active{% endif %}"
-            href="{{ link.url }}"
-            >{{ link.title }}</a
-          >
+          <a class="nav-link h4 {% if link.url == page.url %}active{% endif %}" href="{{ link.url }}">{{ link.title }}</a>
         </li>
         {% endif %} {% endfor %}
       </ul>

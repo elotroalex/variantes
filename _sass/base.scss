@@ -96,7 +96,7 @@ nav.scrolled {
 }
 
 .masthead.home.banner {
-    background-image: url('/images/banner-outline.png');
+    background-image: url('/variantes/images/banner-outline.png');
     animation: firstImage ease 4s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
@@ -116,7 +116,7 @@ nav.scrolled {
     animation: finalImage ease 4s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
-    background-image: url('/images/banner-color.png');
+    background-image: url('/variantes/images/banner-color.png');
     background-size: cover;
     background-position-y: center; 
     height: 100vh;
