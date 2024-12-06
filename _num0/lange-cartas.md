@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "Cartas a Antonia"
-creators: "Carrie Lange, Jaidyn y Aaira %%%EDITORIAL%%%"
+creators: "Carrie Lange, Jaidyn Hurst y Aaira Choudhury"
 date: 2024-12-01
 issue: 0
 orden: 5
