@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "Cartas a Antonia"
-creators: "Carrie, Jaidyn y Aaira"
+creators: "Carrie Lange, Jaidyn y Aaira %%%EDITORIAL%%%"
 date: 2024-12-01
 issue: 0
 orden: 5
@@ -56,13 +56,6 @@ manera. Supongo que se están alejando...
 
 ##
 
-##
-
-##
-
-##
-
-## **Telling Antonia/Packing** [[Link]{.underline}](https://www.npr.org/sections/goatsandsoda/2017/12/23/572564038/see-dioramas-of-refugee-homes-each-re-created-in-an-old-fashioned-suitcase)
 
 Querida Antonia,
 
@@ -101,10 +94,8 @@ casa ha estado demasiado silenciosa desde que te fuiste.
 
 ## **Lonely Ghost**
 
-## [Link]{.underline}
 
-Querida Antonia, ![](media/image2.png){width="4.276042213473316in"
-height="3.4705818022747157in"}
+Querida Antonia, 
 
 Se siente extraño estar en una casa vacía. Hay polvo acumulado en los
 estantes y los muebles están todos cubiertos por sábanas blancas. Me
@@ -128,12 +119,11 @@ querías vivir en un lugar que tuviera más oportunidades y espero que la
 hayas encontrado. A pesar de que se está solo aquí sin ti, quiero que
 seas feliz. Quiero que tengas la vida que yo no pude tener.
 
-##
+
 
 ## **Mom Returns**
 
-Querida Antonia, ![](media/image3.png){width="6.5in"
-height="1.4166666666666667in"}
+Querida Antonia,
 
 Tu mamá regresó a casa hoy. Ahora está dormida, pero antes estaba
 llorando en la cocina. No sé qué está pasando, ¿estás bien? ¿Por qué
@@ -142,14 +132,11 @@ Bestia como yo. Tu papá es de Estados Unidos. Tenías un lugar adonde ir,
 un plan, una casa. Se suponía que estabas a salvo. Por favor, dime que
 estás a salvo.
 
-##
+
 
 ## **Phone Call(s)**
 
 Querida Antonia,
-
-[[Link]{.underline}](https://raymondlogan.blogspot.com/2011/02/old-telephone.html)![](media/image4.png){width="2.9531255468066493in"
-height="2.2869553805774276in"}
 
 Escuché la llamada telefónica que tuviste con tu mamá hoy, así que sé
 que estás viva. Te preguntó cómo te iba en Yale. No puedo creer que
@@ -186,7 +173,6 @@ sesenta años. ¿Crees que tiene familia ahora? Apenas puedo recordar su
 cara. Creo que estaba saliendo con una chica cuando me fui. Tal vez se
 casaron.
 
-[[Link]{.underline}](https://www.aclu.org/news/immigrants-rights/family-separation-two-years-after-ms-l)
 
 De todos modos, dijiste que ahora te sentías más capaz y segura de ti
 misma, así que me alegro. Tal vez un poco más de independencia no sea
