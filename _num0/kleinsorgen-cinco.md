@@ -8,4 +8,19 @@ orden: 20
 bio: ""
 ---
 
+
+At least 13,000 children
+
+
+Toda mamá es una border woman
+
+
+Um rostro para a palavra bálsamo
+
+
+Iluminura XII - Portia sewing her thigh after Brutus' betrayal
+
+
+Iluminura XIX - Pelicana
+
 %%%EDITORIAL%%% (Faltan imagenes)
