@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "Nuclear"
-creators: "Seund Min Baik"
+creators: "Seung Min Baik"
 date: 2024-12-01
 issue: 0
 orden: 17
@@ -153,39 +153,39 @@ El silencio lo dijo todo.
 La oscuridad conquistó la ciudad   
 y llegó con un silencio atronador;   
 no se podían oír las olas rompiendo contra las rocas,   
-&nbsp;ni los ladridos del perro que vive al final de la cuadra,   
-&nbsp;&nbsp;ni el canto del niño---ese canto que siempre llena la casa.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ni los ladridos del perro que vive al final de la cuadra,   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ni el canto del niño---ese canto que siempre llena la casa.   
 
 Un volcán que ya no puede resistir la presión   
 y quiere liberarse de los demonios que se quedaron atrapados por un
 milenio.   
 *Hoy es la última oportunidad*.   
 Entró al cuarto del niño, caminando en puntillas,   
-&nbsp;paso   
-&nbsp;&nbsp;a paso
-&nbsp;&nbsp;&nbsp;a paso.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;paso   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a paso   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a paso.   
 
 *Levántate, rápido, tenemos que irnos ya,*   
 pero tenía los ojos pegados con goma.   
-&nbsp;Vamos,   
-&nbsp;&nbsp;es hora
-&nbsp;&nbsp;&nbsp;de buscar la llave.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vamos,   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;es hora   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de buscar la llave.   
 
 Los ojos del niño: abiertos.   
 *Casi* le salió un grito a la niña.   
 Empieza a salir humo del volcán, el que causa lágrimas,   
 y dentro del centro del planeta, un temblor crece y crece.   
-&nbsp;*Respira,*   
-&nbsp;&nbsp;*respira,*
-&nbsp;&nbsp;&nbsp;*respira.*   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Respira,*   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*respira,*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*respira.*   
 
 Empiezan a caer los libros de las paredes,   
 y se apagan todas las luces de la casa,   
 y se escucha de nuevo el ladrido del perro en la esquina de la cuadra.   
 Finalmente, el niño también entendió que solo tenían   
-&nbsp;hoy,
-&nbsp;&nbsp;hoy,
-&nbsp;&nbsp;&nbsp;hoy.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hoy,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hoy,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hoy.   
 
 Paso a paso, los niños bajaron las escaleras:   
 la niña con un mapa,   
@@ -194,9 +194,9 @@ y salieron hacia una oscuridad infinita.
 
 Se agarraron las manos,   
 y caminaron hacia la 'x' en el mapa,   
-&nbsp;caminaron,   
-&nbsp;&nbsp;caminaron,
-&nbsp;&nbsp;&nbsp;caminaron. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;caminaron,   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;caminaron,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;caminaron. 
 
 Pero no encontraron ninguna llave. 
 
