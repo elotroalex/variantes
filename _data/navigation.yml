@@ -4,5 +4,9 @@
 #   url: /variantes/issues.html
 - title: Open Call
   url: /variantes/cfp.html
-# - title: Ateliers
-#   url: /ateliers.html
+# - title: Open call
+#   url: /cfp.html
+- title: Editorial Board
+  url: /variantes/editorialboard.html
+# - title: Editorial Board
+#   url: /editorialboard.html
