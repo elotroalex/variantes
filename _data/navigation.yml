@@ -1,8 +1,8 @@
 - title: Manifesto
-  url: /about.html
-- title: Issues
-  url: /issues.html
-- title: Contact Us
-  url: /contact.html
+  url: /variantes/manifesto.html
+# - title: Issues
+#   url: /variantes/issues.html
+- title: Open Call
+  url: /variantes/cfp.html
 # - title: Ateliers
 #   url: /ateliers.html
