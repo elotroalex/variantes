@@ -19,57 +19,42 @@ demasiado trágica para el realismo, Nicole la transforma en ficción."
 
 
 
-Me ha estado carcomiendo la posibilidad de estar bañada en cucarachas,
-
-que las metan en mi celda,
-
-se arrastren por mi piel desnuda,
-
-por las piernas, mis vellos,
-
-causen cosquillas
-
-en mi vagina,
-
-lleguen a mis senos,
-
-hagan arder mi garganta 
-
-hasta penetrar mi boca y absorberme las entrañas.
+Me ha estado carcomiendo la posibilidad de estar bañada en cucarachas,   
+que las metan en mi celda,   
+se arrastren por mi piel desnuda,   
+por las piernas, mis vellos,   
+causen cosquillas   
+en mi vagina,   
+lleguen a mis senos,   
+hagan arder mi garganta    
+hasta penetrar mi boca y absorberme las entrañas.  
 
 Un pensamiento repetitivo pero que ahí termina. Cierro los ojos y
-desaparecen---
+desaparecen---   
 
 Es una idea que me aterra y atormenta pero que últimamente me obsesiona
-y es lo único que deseo, que se materialicen y me violen.
+y es lo único que deseo, que se materialicen y me violen. 
 
 Quiero tragármelas hasta sentir sus alas ensuciar mis dientes, sin poder
-distinguir entre sus patas y mi desayuno del viernes.
+distinguir entre sus patas y mi desayuno del viernes.  
 
 Se me baña la cara en lágrimas mientras me las trago pero si hay alguien
 encerrado en esta celda, un caraqueño que las vomita y grita sin
-respuesta noche y día,
+respuesta noche y día,   
 
-¿por qué no puedo ser yo en su lugar?
-
+¿por qué no puedo ser yo en su lugar?   
 Me encuentro rogándole a Dios que nos cambie pero ¿mi desnudez será la
-solución o será ésta en vano? 
+solución o será ésta en vano?   
 
 En una celda donde se materializa mi pesadilla, me encuentro
 reencarnando el deseo de la muerte. Reflexiono y pienso. Pero ¿cómo es
 que yo puedo encontrarme, cerrar mis ojos y pensar cuando a mi gente no
-es otorgada muerte sino infierno(?)
-
-cuando no tienen opción,
-
-cuando los queman
-
-y sobreviven porque el diablo quiere que sobrevivan,
-
-quemados, cicatrizados y traumatizados 
-
-para que salgan y lo cuenten de memoria,
-
-a sus familias, amigos y novias
+es otorgada muerte sino infierno(?)   
+cuando no tienen opción,   
+cuando los queman   
+y sobreviven porque el diablo quiere que sobrevivan,   
+quemados, cicatrizados y traumatizados   
+para que salgan y lo cuenten de memoria,   
+a sus familias, amigos y novias  
 
 para que nadie se atreva a escribir, tomar o a postear. 

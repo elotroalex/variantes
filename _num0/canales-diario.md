@@ -11,7 +11,7 @@ bio: "Jomar Canales Conde (1998) is a writer, poet and photographer from Carolin
 "O que estou fazendo ao te escrever? Estou tentando fotografar o
 perfume"
 
----*Água viva*, Clarice Lispector
+&nbsp;&nbsp;*Água viva*, Clarice Lispector
 
 \[Brasil, verano 2018\]
 
