@@ -1,5 +1,5 @@
 
-@import "vars";
+@use "vars" as *;
 @import "bootstrap-5.3.0/scss/bootstrap.scss";
 
 /* Bootstrap Overrides */
@@ -139,11 +139,12 @@ nav.scrolled {
 }
 
 .atspanport {
-    animation: fadeInAnimation ease-in 4s;
+    animation: fadeInAnimation ease-in 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
+    font-size: larger;
     color: #00365b;
-    text-shadow: 3px 1px 3px black;
+    // text-shadow: 1px 0px 1px black;
 }
 
 .masthead h1 {
