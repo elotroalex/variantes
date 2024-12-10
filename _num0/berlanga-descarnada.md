@@ -16,145 +16,87 @@ Yo que a los 5 me di cuenta de que no era atractiva
 Porque un niño me rechazó en público y todos se rieron  
 Yo que a los 7 decidí hacer mi primera dieta  
 Porque me llamaron gorda y cachetona  
-Yo que a los 9 empecé a odiar los trabajos en grupo
+Yo que a los 9 empecé a odiar los trabajos en grupo   
+Porque decían que era mandona e intimidante   
+Yo que a los 11 me sentí insegura en la calle   
+Porque me gritaron desde un coche pasante   
+Yo que a los 13 paré de participar en clase   
+Porque decían que me creía muy inteligente   
+Yo que a los 15 tuve que perder a un amigo   
+Porque no entendía el significado de la palabra 'no'   
+Yo que a los 17 entendí qué significa el ser usada   
+Porque aquel que amé se aburrió y se fue   
+Yo que a los 19 todavía no me quiero   
+Porque es lo que me enseñaron y es lo que aprendí   
 
-Porque decían que era mandona e intimidante
+Yo que solo busco atención   
+Yo que soy una exagerada   
+Yo que tengo que calmarme   
+Yo que soy demasiado ambiciosa   
+Yo que no sonrío lo suficiente   
+Yo que soy un tanto promiscua   
+Yo que estoy dañada y sola   
+Yo que soy una histérica   
+Yo que no entiendo   
+Yo que soy sólo una mujer   
+Que no me creyeron hasta que me vieron los huesos   
+Que no me creyeron hasta que me brotó la sangre   
+Que no me creyeron hasta que llovió y llovió por tres días  
 
-Yo que a los 11 me sentí insegura en la calle
+Que no me creyeron hasta que me encontraron descarnada   
 
-Porque me gritaron desde un coche pasante
-
-Yo que a los 13 paré de participar en clase
-
-Porque decían que me creía muy inteligente
-
-Yo que a los 15 tuve que perder a un amigo
-
-Porque no entendía el significado de la palabra 'no'
-
-Yo que a los 17 entendí qué significa el ser usada
-
-Porque aquel que amé se aburrió y se fue
-
-Yo que a los 19 todavía no me quiero
-
-Porque es lo que me enseñaron y es lo que aprendí
-
-Yo que solo busco atención
-
-Yo que soy una exagerada
-
-Yo que tengo que calmarme
-
-Yo que soy demasiado ambiciosa
-
-Yo que no sonrío lo suficiente
-
-Yo que soy un tanto promiscua
-
-Yo que estoy dañada y sola
-
-Yo que soy una histérica
-
-Yo que no entiendo
-
-Yo que soy sólo una mujer
-
-Que no me creyeron hasta que me vieron los huesos
-
-Que no me creyeron hasta que me brotó la sangre
-
-Que no me creyeron hasta que llovió y llovió por tres días
-
-Que no me creyeron hasta que me encontraron descarnada
-
-Que aun así todavía no me creen.
+Que aun así todavía no me creen.   
 
 Yo que soy el fruto de lo que ustedes crearon.
 
-\*\*\*\
-
----
 
 **_Básquetbol_**
 
-Te conocí jugando básquetbol.
+Te conocí jugando básquetbol.   
+Éramos rivales, pero en realidad no.   
+Siempre fuiste mucho mejor que yo,   
+yo que en ese último partido   
+antes de que yo partiera   
+te vi tan radiante, tan alegre, tan triunfante   
+tu sonrisa reflejada en el metal del trofeo. 
 
-Éramos rivales, pero en realidad no.
+Ahora te veo desde la pantalla de mi celular   
+en esa foto agarrando el mismo trofeo dorado   
+'Se exige justicia' dice   
+'Ni una más, ni una menos'.   
+Este mundo tan cruel y ese hombre   
+tan violento al robarse tu sonrisa,   
+como si aquella y tu vida   
+le pertenecieran.   
 
-Siempre fuiste mucho mejor que yo,
+Y yo lloro, aunque apenas te conocí.   
+Lloro porque eras tan chiquita.   
+Lloro porque veo en tus ojos   
+los ojos de mi hermana, y veo   
+en la mirada perdida de tu mamá,   
+la mirada de la mía.   
 
-yo que en ese último partido
+Pudieron haber sido ellas.   
+Pude haber sido yo.   
+Debí haber sido yo.   
 
-antes de que yo partiera
+Siento tanto que tuviste que ser tú.   
 
-te vi tan radiante, tan alegre, tan triunfante
+Era quince de septiembre.   
+Me quedé en casa.   
 
-tu sonrisa reflejada en el metal del trofeo.
-
-Ahora te veo desde la pantalla de mi celular
-
-en esa foto agarrando el mismo trofeo dorado
-
-'Se exige justicia' dice
-
-'Ni una más, ni una menos'.
-
-Este mundo tan cruel y ese hombre
-
-tan violento al robarse tu sonrisa,
-
-como si aquella y tu vida
-
-le pertenecieran.
-
-Y yo lloro, aunque apenas te conocí.
-
-Lloro porque eras tan chiquita.
-
-Lloro porque veo en tus ojos
-
-los ojos de mi hermana, y veo
-
-en la mirada perdida de tu mamá,
-
-la mirada de la mía.
-
-Pudieron haber sido ellas.
-
-Pude haber sido yo.
-
-Debí haber sido yo.
-
-Siento tanto que tuviste que ser tú.
-
-Era quince de septiembre.
-
-Me quedé en casa.
-
-Ahora miro mis manos y veo las tuyas
-
-Escribo tu nombre y me doy cuenta
-
-que es el mío.
-
-Yo que ya no juego básquetbol
-
-porque estoy ocupada
-
-porque me da flojera
-
-porque no quiero pensar
-
-que no tengo control y que estas manos
-
-no son mías
-
+Ahora miro mis manos y veo las tuyas   
+Escribo tu nombre y me doy cuenta   
+que es el mío.   
+Yo que ya no juego básquetbol   
+porque estoy ocupada   
+porque me da flojera   
+porque no quiero pensar   
+que no tengo control y que estas manos   
+no son mías   
 y tampoco tuyas.
 
-\*\*\*\
 
----
 
 **_El "pero"_**
 
@@ -187,122 +129,69 @@ quiere su dinero y pues su única manera de conseguirlo es así sabes la
 neta que lástima la sociedad en la que vivimos no pero bueno hermosa ya
 equis cambiemos de tema como estuvo tu día feliz día de la mujer
 
-\*\*\*\
-
----
 
 **_Entre la neblina_**
 
-Ella,
+Ella,   
+la güerita con ojos de enebro,   
+quería ser princesa y poder pisar   
+con sus zapatillas de plástico los edificios.   
+Soñaba con agarrar la mano de una hermana,   
+manejar hasta el atardecer en un camión   
+color fucsia como las buganvilias que   
+decoraban su pelo y el jardín y toda la casa.   
 
-la güerita con ojos de enebro,
+Ella,   
+piel morena y ojos profundos de madera,   
+quería dominar al mundo y caminar con sus   
+pies desnudos en la playa recogiendo caracoles.   
+Soñaba con agarrar la mano de una hermana,   
+escalar hasta llegar a la cima de una montaña   
+nevada completamente, brillando de blanco   
+como el vestido que su mamá le había regalado.   
 
-quería ser princesa y poder pisar
+Ella   
+imaginaba un mundo de castillos y vestidos y   
+joyas y banquetes y bandejas de cristal.   
+Imaginaba sirenas voladoras y nubes de algodón y   
+muros infinito para pintar y una pista para bailar.   
+Imaginaba platos y platos de pasta con crema y   
+casas de mazapán con cemento dulce y chocolatoso.   
 
-con sus zapatillas de plástico los edificios.
+Yo.   
+Odio el mazapán y no como chocolate   
+a menos que sepa a ceniza y me arrugue la cara.   
+Me logré convencer me gustan más las verduras   
+que la pasta, que los postres me empalagan,   
+Sólo pinto realismo, _chiaroscuros_ y flores secas,   
+Y me da miedo lo que piensa la gente de mi arte   
+Solo bailo si llevo tres cubas o cuatro cervezas   
+Y cuando duermo siento un vacío estático y ruidoso.   
 
-Soñaba con agarrar la mano de una hermana,
+Yo.   
+Odio cualquier tono de rosa y no me pongo tacones   
+a menos de que necesite que me tomen en serio,   
+Me siento en la arena a escribir porque las olas   
+son muy violentas y no quiero mojarme el pelo,   
+Solo salgo de casa cuando se me acaba la tinta   
+y me da miedo decir lo que escondo en estos renglones.   
+Solo sonrío cuando apareces en mis sueños   
+y pienso en agarrar tu mano, hermana mía. 
 
-manejar hasta el atardecer en un camión
-
-color fucsia como las buganvilias que
-
-decoraban su pelo y el jardín y toda la casa.
-
-Ella,
-
-piel morena y ojos profundos de madera,
-
-quería dominar al mundo y caminar con sus
-
-pies desnudos en la playa recogiendo caracoles.
-
-Soñaba con agarrar la mano de una hermana,
-
-escalar hasta llegar a la cima de una montaña
-
-nevada completamente, brillando de blanco
-
-como el vestido que su mamá le había regalado.
-
-Ella
-
-imaginaba un mundo de castillos y vestidos y
-
-joyas y banquetes y bandejas de cristal.
-
-Imaginaba sirenas voladoras y nubes de algodón y
-
-muros infinito para pintar y una pista para bailar.
-
-Imaginaba platos y platos de pasta con crema y
-
-casas de mazapán con cemento dulce y chocolatoso.
-
-Yo.
-
-Odio el mazapán y no como chocolate
-
-a menos que sepa a ceniza y me arrugue la cara.
-
-Me logré convencer me gustan más las verduras
-
-que la pasta, que los postres me empalagan,
-
-Sólo pinto realismo, _chiaroscuros_ y flores secas,
-
-Y me da miedo lo que piensa la gente de mi arte
-
-Solo bailo si llevo tres cubas o cuatro cervezas
-
-Y cuando duermo siento un vacío estático y ruidoso.
-
-Yo.
-
-Odio cualquier tono de rosa y no me pongo tacones
-
-a menos de que necesite que me tomen en serio,
-
-Me siento en la arena a escribir porque las olas
-
-son muy violentas y no quiero mojarme el pelo,
-
-Solo salgo de casa cuando se me acaba la tinta
-
-y me da miedo decir lo que escondo en estos renglones.
-
-Solo sonrío cuando apareces en mis sueños
-
-y pienso en agarrar tu mano, hermana mía.
-
-Yo.
-
-Que no soy ella, pero creo que la alcanzo a vislumbrar
-
-entre la neblina de una memoria olvidada,
-
-Entre las fibras de mis ojos de enebro,
-
-Entre algún mechón rubio escapado.
-
-Yo.
-
-Que no soy ella, pero pienso en cómo podría
-
-intentar volver a echar raíces en su tierra,
-
-tierra que ya no es mía ni volverá a serlo.
-
-Yo.
-
-Que me encuentro desesperada, corriendo,
-
-hacia algo que se me escapa de las manos
-
+Yo.   
+Que no soy ella, pero creo que la alcanzo a vislumbrar   
+entre la neblina de una memoria olvidada,   
+Entre las fibras de mis ojos de enebro,   
+Entre algún mechón rubio escapado.   
+Yo.   
+Que no soy ella, pero pienso en cómo podría   
+intentar volver a echar raíces en su tierra,   
+tierra que ya no es mía ni volverá a serlo.   
+Yo.   
+Que me encuentro desesperada, corriendo,   
+hacia algo que se me escapa de las manos   
 y desaparece.
 
-**\
-**
 
 **_Akhfbdnmskwe_**
 
@@ -327,14 +216,13 @@ Cierro la computadora y sé, una vez más, que me han ganado.
 
 Intentaré de nuevo...
 
-%%EDITORIAL%%
 
-y         d
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;y        d
 
-a n b v p                        x
+a                     n b                 v p                        x
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j
 
-o h j
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o             h       j
 
-' → una tilde perdida
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' → una tilde perdida

@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "Nuclear"
-creators: "Seung Min Baik"
+creators: "Seung Min Baik Kang"
 date: 2024-12-01
 issue: 0
 orden: 17
@@ -176,15 +176,15 @@ Los ojos del niño: abiertos.
 Empieza a salir humo del volcán, el que causa lágrimas,   
 y dentro del centro del planeta, un temblor crece y crece.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Respira,*   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*respira,*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*respira,*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*respira.*   
 
 Empiezan a caer los libros de las paredes,   
 y se apagan todas las luces de la casa,   
 y se escucha de nuevo el ladrido del perro en la esquina de la cuadra.   
 Finalmente, el niño también entendió que solo tenían   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hoy,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hoy,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hoy,   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hoy,   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hoy.   
 
 Paso a paso, los niños bajaron las escaleras:   
@@ -195,7 +195,7 @@ y salieron hacia una oscuridad infinita.
 Se agarraron las manos,   
 y caminaron hacia la 'x' en el mapa,   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;caminaron,   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;caminaron,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;caminaron,   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;caminaron. 
 
 Pero no encontraron ninguna llave. 
