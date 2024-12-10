@@ -10,18 +10,12 @@ bio: "Ana Paula Berlanga Arnal (she/her/hers), Mexico City, Davenport 2027"
 
 **_Bienvenidos al infierno_**
 
-Yo que a los 3 caí en cuenta de que existía en un cuerpo
-
-Porque mis ojos verdes y mi reflejo se conocieron
-
-Yo que a los 5 me di cuenta de que no era atractiva
-
-Porque un niño me rechazó en público y todos se rieron
-
-Yo que a los 7 decidí hacer mi primera dieta
-
-Porque me llamaron gorda y cachetona
-
+Yo que a los 3 caí en cuenta de que existía en un cuerpo  
+Porque mis ojos verdes y mi reflejo se conocieron  
+Yo que a los 5 me di cuenta de que no era atractiva  
+Porque un niño me rechazó en público y todos se rieron  
+Yo que a los 7 decidí hacer mi primera dieta  
+Porque me llamaron gorda y cachetona  
 Yo que a los 9 empecé a odiar los trabajos en grupo
 
 Porque decían que era mandona e intimidante
@@ -339,7 +333,7 @@ y         d
 
 a n b v p                        x
 
-j
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j
 
 o h j
 
