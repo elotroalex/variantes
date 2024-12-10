@@ -77,6 +77,11 @@ nav {
     transition: background-color 0.4s ease-in-out;
 }
 
+.nav-item {
+    margin: 0 0.2rem;
+    font-size: 1.4rem;
+}
+
 nav.scrolled {
     background-color: #00365b !important;
     opacity: .9 !important;
