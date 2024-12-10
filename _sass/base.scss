@@ -1,10 +1,22 @@
-
-@use "vars" as *;
-@import "bootstrap-5.3.0/scss/bootstrap.scss";
+@use "bootstrap-5.3.3/css/bootstrap" as *;
 
 /* Bootstrap Overrides */
 
+/* Custom Variables */
+
+$primary: #00365b; /* change Bootstrap 5 primary color to red */
+$blue: #00365b;
+$yellow: #be7e45;
+
 p { font-size: 18px; }
+
+a {
+    color: $primary;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
 
 
 
@@ -15,17 +27,17 @@ p { font-size: 18px; }
 
 @font-face {
     font-family: 'Yale New Roman';
-    src: url(/assets/fonts/YaleNewRoman.otf) format(opentype);
+    src: url(/variantes/assets/fonts/YaleNewRoman.otf) format(opentype);
 }
 
 @font-face {
     font-family: 'Mallory Light';
-    src: url(/assets/fonts/MalloryLight.ttf) format(truetype);
+    src: url(/variantes/assets/fonts/MalloryLight.ttf) format(truetype);
 }
 
 @font-face {
     font-family: 'Mallory Book';
-    src: url(/assets/fonts/MalloryBook.ttf) format(truetype);
+    src: url(/variantes/assets/fonts/MalloryBook.ttf) format(truetype);
 }
 
 $backgroundColor: #ffffff;
@@ -51,7 +63,7 @@ h1, h2, h3, h4 {
 
 nav.scrolled .home-nav-title, nav.scrolled .nav-title {
     display: inline;
-    color: $light !important;
+    color: white !important;
 }
 
 @media screen and (max-width: 380px) {
@@ -142,7 +154,7 @@ nav.scrolled {
     animation: fadeInAnimation ease-in 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
-    font-size: larger;
+    font-size: 1.6rem;
     color: #00365b;
     // text-shadow: 1px 0px 1px black;
 }
