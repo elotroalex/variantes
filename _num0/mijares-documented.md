@@ -38,7 +38,7 @@ man, don't be perceived
 Unrepresented. Disoriented, either separated or intimidated, frustrated   
 
 Pero ya es hora que nuestra historia y nuestras voces...   
-&nbsp;&nbsp;&nbsp;... estén *documentadas.*   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;... estén *documentadas.*   
 
 ¡Dale!  
 

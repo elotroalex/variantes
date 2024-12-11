@@ -1,6 +1,6 @@
 ---
 layout: work
-title: "La playa enganosa"
+title: "La playa engañosa"
 creators: "Clark Noble"
 date: 2024-12-01
 issue: 0
