@@ -12,11 +12,11 @@ Casandra Garza Reséndez
 Sofía Masdeu   
 Orit Gugenheim Katz   
 Sofía Fernández González   
-Luis Ernesto Prieto   
+Luis Prieto   
 Zoe Guiney
 
 **Assesing Faculty**   
-Mayte Lopez   
+Mayte López   
 Alex Gil   
 Santiago Acosta   
 Olivia Lott
