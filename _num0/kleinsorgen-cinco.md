@@ -15,7 +15,8 @@ At least 13,000 children
     <img src="{{site.baseurl}}/images/num0/kleinsorgen-2.png" alt="Una mujer con un niño llevando una kufiya." class="featured-img" />
   </div>
 </div>
-
+   
+      
 
 
 Toda mamá es una border woman
@@ -26,6 +27,8 @@ Toda mamá es una border woman
   </div>
 </div>
 
+   
+      
 
 
 Um rostro para a palavra bálsamo
@@ -36,6 +39,8 @@ Um rostro para a palavra bálsamo
   </div>
 </div>
 
+   
+      
 
 
 Iluminura XII - Portia sewing her thigh after Brutus' betrayal
@@ -46,7 +51,9 @@ Iluminura XII - Portia sewing her thigh after Brutus' betrayal
   </div>
 </div>
 
-
+   
+      
+      
 
 Iluminura XIX - Pelicana
 

@@ -3,9 +3,10 @@ layout: page
 title: "Editorial Board"
 ---
 
-*Lead Editor*   
+**Lead Editor**   
 Ana Fernández-Blázquez   
-*Section Editors*   
+
+**Section Editors**   
 Katherina Frangi   
 Casandra Garza Reséndez   
 Sofía Masdeu   
@@ -14,7 +15,7 @@ Sofía Fernández González
 Luis Ernesto Prieto   
 Zoe Guiney
 
-*Assesing Faculty*   
+**Assesing Faculty**   
 Mayte Lopez   
 Alex Gil   
 Santiago Acosta   
