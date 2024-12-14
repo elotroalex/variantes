@@ -3,7 +3,6 @@ layout: page
 title: "Manifesto"
 ---
 
-
 **Manifiesto Variantes**
 
 La literatura nace en las piedras y en las manos, en las lenguas y los cuerpos.
@@ -14,7 +13,6 @@ Esta revista literaria surge en diciembre de 2024 como un proyecto del Departame
 
 _Variantes_ alberga lenguas de la Península Ibérica y las Américas, así como modelos de creación inusuales, fragmentarios o canónicos. En _Variantes_ acogemos voces invisibilizadas, literaturas indígenas, autoras queer y escritos en lenguas minoritarias o formas de literatura menor. En Variantes valoramos las propuestas que expanden los límites de lo literario.
 
-Recibimos propuestas de poesía, ficción, teatro y artes visuales, y publicamos una vez al año.
+Recibimos propuestas de poesía, ficción, teatro y artes visuales, experimentos digitales y publicamos una vez al año.
 
 El equipo editorial de _Variantes_.
-
