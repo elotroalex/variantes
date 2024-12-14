@@ -64,6 +64,14 @@ h1, h2, h3, h4 {
     font-family: 'Mallory Light',Helvetica,Arial,sans-serif;
 }
 
+.navbar-brand-visible {
+    display: inline;
+}
+
+.nav-title {
+    font-family: 'Mallory Light',Helvetica,Arial,sans-serif;
+}
+
 nav.scrolled .home-nav-title, nav.scrolled .navbar-brand, nav.scrolled .nav-title {
     display: inline;
     color: white !important;
