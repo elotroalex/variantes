@@ -9,7 +9,7 @@ bio: "Nacida y criada en el pueblo de Guarenas, Venezuela, Nicole emigró a
 Miami a los 15 años. Obtuvo su A.A. en Literatura Inglesa en el Miami
 Dade Honors College y actualmente estudia Literatura Comparada en Yale
 University. Sus escritos han sido publicados en el Yale Daily News, en
-la revista _Urbana Literary & Arts_ Magazine, donde fue editora en jefe
+la revista Urbana Literary & Arts Magazine, donde fue editora en jefe
 del volumen número 16, entre otros. Actualmente, coordina un programa
 para facilitar la entrada de nuevos guionistas poco representados a
 Hollywood, ya que sueña con contar sus tragedias queer, venezolanas y
