@@ -3,6 +3,8 @@ layout: page
 title: "Editorial Board"
 ---
 
+Las opiniones expresadas en los artículos, obras creativas y demás contribuciones publicadas en esta revista son responsabilidad exclusiva de sus autores y no necesariamente reflejan la postura de los editores, el equipo editorial o la institución que la respalda.
+
 **Lead Editor**   
 Ana Fernández-Blázquez   
 
