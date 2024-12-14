@@ -3,7 +3,7 @@ layout: page
 title: "Manifesto"
 ---
 
-**Manifiesto Variantes**
+## Manifesto Variantes
 
 La literatura nace en las piedras y en las manos, en las lenguas y los cuerpos.
 
@@ -15,4 +15,4 @@ _Variantes_ alberga lenguas de la Península Ibérica y las Américas, así como
 
 Recibimos propuestas de poesía, ficción, teatro y artes visuales, experimentos digitales y publicamos una vez al año.
 
-El equipo editorial de _Variantes_.
+— El equipo editorial de _Variantes_.

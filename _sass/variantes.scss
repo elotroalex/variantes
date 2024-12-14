@@ -6,7 +6,7 @@ $primary: #00365b; /* change Bootstrap 5 primary color to red */
 $blue: #00365b;
 $yellow: #be7e45;
 
-@import "bootstrap-5.3.3/css/bootstrap";
+@use "bootstrap-5.3.3/css/bootstrap";
 
 /* Bootstrap Overrides */
 
@@ -56,6 +56,12 @@ body {
 h1, h2, h3, h4 {
     font-family: 'Mallory Light';
 }
+
+.page h1 {
+    color: $primary;
+    border: none;
+    -webkit-text-stroke: none;
+} 
 
 // Navbar
 
@@ -174,6 +180,11 @@ nav.scrolled {
     color: #00365b;
     // text-shadow: 1px 0px 1px black;
 }
+@media screen and (max-width: 767px) {
+    .atspanport {
+        display: none;
+    }
+}
 
 .masthead h1 {
     animation: fadeInAnimation ease-in 2s;
@@ -201,9 +212,7 @@ nav.scrolled {
 }
 
 .masthead.page h1 {
-    font-family: 'Mallory Book';
-    font-size: 5vw;
-    -webkit-text-stroke: 2px #00365b; /* width and color */
+    font-size: 1.6rem;
 }
 
 .masthead.event h1 {
