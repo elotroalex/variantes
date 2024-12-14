@@ -8,7 +8,7 @@ orden: 10
 bio: "My name is Isabela Snow and I use she/her pronouns. I am Davenport Class of 2027 and from Minnesota!"
 ---
 
-### Invierno
+## Invierno
 
 Cuando salgo del autobús con el bolso donde están mis esquís, botas y
 bastones**,** puedo sentir el frío en mis mejillas y el comienzo de un
@@ -50,7 +50,7 @@ nuevo. A veces, solo apoyo mi cabeza contra la ventana y dejo que la
 condensación congelada y el zumbido suave del bus me envuelva.
 Movimiento y silencio. Inmovilidad y ruido atronador.
 
-### Primavera
+## Primavera
 
 Cuando era pequeña, mi hermanita despertaba todas las mañanas cantando
 con los pajaritos recién de vuelta de sus vacaciones de invierno
@@ -123,7 +123,7 @@ dijo:
 
 "Vengan, chicas, vamos a dar un paseo"
 
-### Verano
+## Verano
 
 En las *Boundary Waters* hay una frontera física entre Minnesota y
 Canadá. Puedes manejar, caminar, andar en canoa y hasta nadar. Pero
@@ -196,7 +196,7 @@ patrón exacto y lineal.
 Al otro lado de La Pared, al otro lado del lago donde empieza Canadá,
 puedo escuchar el aullido de dos colimbos
 
-### Otoño
+## Otoño
 
 La primera nieve siempre llega en medio de octubre, interrumpiendo los
 días dorados. A las cuatro de la mañana, los *quitanieve* vienen por

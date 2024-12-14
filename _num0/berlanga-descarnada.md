@@ -8,7 +8,7 @@ orden: 4
 bio: "Ana Paula Berlanga Arnal (she/her/hers), Mexico City, Davenport 2027"
 ---
 
-**_Bienvenidos al infierno_**
+## Bienvenidos al infierno
 
 Yo que a los 3 caí en cuenta de que existía en un cuerpo  
 Porque mis ojos verdes y mi reflejo se conocieron  
@@ -49,8 +49,9 @@ Que aun así todavía no me creen.
 
 Yo que soy el fruto de lo que ustedes crearon.
 
+---
 
-**_Básquetbol_**
+##Básquetbol
 
 Te conocí jugando básquetbol.   
 Éramos rivales, pero en realidad no.   
@@ -96,9 +97,9 @@ que no tengo control y que estas manos
 no son mías   
 y tampoco tuyas.
 
+---
 
-
-**_El "pero"_**
+## El "pero"
 
 no en serio no te estoy diciendo que todas mienten pero a mi amigo te
 juro que le vino una morra a poner una demanda y pues al wey lo sacaron
@@ -129,8 +130,9 @@ quiere su dinero y pues su única manera de conseguirlo es así sabes la
 neta que lástima la sociedad en la que vivimos no pero bueno hermosa ya
 equis cambiemos de tema como estuvo tu día feliz día de la mujer
 
+---
 
-**_Entre la neblina_**
+## Entre la neblina
 
 Ella,   
 la güerita con ojos de enebro,   
@@ -192,8 +194,9 @@ Que me encuentro desesperada, corriendo,
 hacia algo que se me escapa de las manos   
 y desaparece.
 
+---
 
-**_Akhfbdnmskwe_**
+## Akhfbdnmskwe
 
 Las palabras hacen lo que quieren. Se me salen de las manos. Soy yo
 quien plasma las letras en la página, mas son ellas quienes se organizan

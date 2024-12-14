@@ -9,8 +9,7 @@ bio: "En 2022 egresé de la carrera Artes de la Escritura en la UNA. Guío los t
 ---
 
 
-### La fe se degrada
-
+La fe se degrada
 lenta  
 estos días:  
 
@@ -35,7 +34,6 @@ es que siempre
 voló con vos  
 el tiempo.
 
----
 
 Me ayuda  
 a veces  
@@ -50,21 +48,19 @@ que hierve en mí
 como cacerola olvidada  
 en el fuego.  
 
----
 
 Hoy me nació una pregunta  
 que, parecía,  
 no llevaba a ningún lado,  
 repito las palabras:  
 
-**acacia-violácea**,  
+_acacia-violácea_,  
 me parece  
 pueden ser un buen dúo  
 como panza-plaza  
 morrón-oxímoron  
 vos y yo.  
 
----
 
 Anoto todo.  
 
@@ -86,7 +82,6 @@ viola por la flor púrpura
 y por su semejanza  
 ácea.  
 
----
 
 Me desplazo entre vocablos  
 como vos por mi casa  
@@ -101,7 +96,6 @@ supe que algo tan perfecto
 sin contratos ni promesas  
 era hermoso.  
 
----
 
 Sé que te vi a vos, pero  
 ¿habré visto alguna vez una acacia?  
@@ -122,7 +116,6 @@ a borrachos violáceos
 y vinos  
 derramados.  
 
----
 
 Cuando tenga una enciclopedia  
 de árboles  
@@ -137,22 +130,20 @@ de lo que vendrá,
 
 no me quejo.  
 
----
 
 Las dudas  
 hicieron que buscara  
 hecho un trapo  
 qué significa ser humano:  
 
-**humus** como tierra  
-y **homo**  
+_humus_ como tierra  
+y _homo_  
 como hombre,  
-el sufijo **anus**  
+el sufijo _anus_  
 la parte del ano  
 de la palabra  
 humano.  
 
----
 
 ¿Y amor?  
 se dice igual en latín,  
@@ -161,8 +152,8 @@ amorío, desamorado,
 enamorado, amigo;  
 se relaciona  
 con una raíz indoeuropea,  
-**amma**:  
-voz infantil para llamar a la madre,  
+_amma:_  
+_voz infantil para llamar a la madre_,  
 a la mía le digo vieja, pero  
 que el amor venga  
 desde lo primario,  
@@ -173,16 +164,14 @@ me hace acordar
 a cuando te vi bailando,  
 no hay diferencia.  
 
----
+
 
 Esto voy a hacer:  
 extrañarte  
 como fuera de lugar, ajeno,  
-Un **extraneus**:  
+Un _extraneus_:  
 extranjero, de afuera  
 hacia adentro.  
-
----
 
 Sigo el juego  
 hasta excavar  
