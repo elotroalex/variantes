@@ -20,7 +20,7 @@ banner: homepage.png
         {% for page in site.num0 %}
         <div class="page-item">
           <h3><a href="{{site.baseurl}}{{ page.url }}">{{ page.title }}</a></h3>
-          <p>Author: {{ page.creators }}</p>
+          <p>by {{ page.creators }}</p>
         </div>
         {% endfor %}
       </div>
