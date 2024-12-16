@@ -8,12 +8,10 @@ orden: 12
 bio: "Jomar Canales Conde (1998) is a writer, poet and photographer from Carolina, Puerto Rico. He holds an Erasmus Mundus Joint Master's Degree in European Literatury Cultures from the Universities of Lisbon and Bologna, and a Bachelor's Degree in Hispanic Studies from the University of Puerto Rico."
 ---
 
-"O que estou fazendo ao te escrever? Estou tentando fotografar o
-perfume"
+<blockquote class="quote-font">"O que estou fazendo ao te escrever? Estou tentando fotografar o perfume"</blockquote>
+<p style="text-align: right;"><em>Água viva</em>, Clarice Lispector</p>
 
-&nbsp;&nbsp;*Água viva*, Clarice Lispector
-
-\[Brasil, verano 2018\]
+[Brasil, verano 2018]
 
 1
 
@@ -66,7 +64,7 @@ mirada había una compasión profunda, sin límites.
 
 5
 
-Si hay algo que *atrae* en la escritura de Clarice es precisamente que
+Si hay algo que _atrae_ en la escritura de Clarice es precisamente que
 ella se coloca de frente al instante. Ella sabe asombrarse ante la
 maravilla y el horror del presente, y no se conforma con ello; como una
 mano tanteando en el agua negra de un río, quiere tomar la vertiginosa
