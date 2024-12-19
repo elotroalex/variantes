@@ -8,18 +8,16 @@ orden: 20
 bio: ""
 ---
 
-At least 13,000 children
+### At least 13,000 children
 
 <div class="featured row border border-dark" style="">
   <div class="col-md-12 flush-col">
     <img src="{{site.baseurl}}/images/num0/kleinsorgen-2.png" alt="Una mujer con un niño llevando una kufiya." class="featured-img" />
   </div>
 </div>
-   
-      
+<br>
 
-
-Toda mamá es una border woman
+### Toda mamá es una border woman
 
 <div class="featured row border border-dark" style="">
   <div class="col-md-12 flush-col">
@@ -27,11 +25,9 @@ Toda mamá es una border woman
   </div>
 </div>
 
-   
-      
+<br>
 
-
-Um rostro para a palavra bálsamo
+### Um rostro para a palavra bálsamo
 
 <div class="featured row border border-dark" style="">
   <div class="col-md-12 flush-col">
@@ -39,11 +35,9 @@ Um rostro para a palavra bálsamo
   </div>
 </div>
 
-   
-      
+<br>
 
-
-Iluminura XII - Portia sewing her thigh after Brutus' betrayal
+### Iluminura XII - Portia sewing her thigh after Brutus' betrayal
 
 <div class="featured row border border-dark" style="">
   <div class="col-md-12 flush-col">
@@ -51,11 +45,9 @@ Iluminura XII - Portia sewing her thigh after Brutus' betrayal
   </div>
 </div>
 
-   
-      
-      
+<br>
 
-Iluminura XIX - Pelicana
+### Iluminura XIX - Pelicana
 
 <div class="featured row border border-dark" style="">
   <div class="col-md-12 flush-col">
