@@ -68,8 +68,7 @@ a los Estados Unidos. Te quedas en silencio, pareces sorprendida, y
 luego comienzas a llorar. Te preguntas, ¿y tío Juan y tía María? ¿Vienen
 también? De repente te golpea, solo tú y tu familia inmediata se van.
 Tendrás que despedirte de Chile.
-![](media/image1.png){width="3.670952537182852in"
-height="3.088542213473316in"}
+
 
 **Move Out Day**
 
@@ -77,8 +76,8 @@ Querida Antonia,
 
 No lo vi venir cuando te fuiste. Todas las necesidades permanecen en
 casa. Todos los miembros de tu familia hicieron solo una maleta. Cuando
-todos ustedes estaban empacando, me di cuenta de que [habías
-empacado]{.mark} ropa para todo tipo de clima. Estaba un poco confundido
+todos ustedes estaban empacando, me di cuenta de que habías
+empacado ropa para todo tipo de clima. Estaba un poco confundido
 porque ¿quién necesita tanto una chaqueta de invierno como un vestido?
 Pensé que te ibas de vacaciones y que tendría un poco de tiempo para mí.
 Pensé que ibas a hacer una gira mundial con tu familia o algo tan

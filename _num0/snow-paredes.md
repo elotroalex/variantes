@@ -121,7 +121,7 @@ movimiento pasaría, mis padres dejarían el accidente en el pasado, mi
 mamá se relajaría. Pero no pasó. No sé si importa porque mi papá nos
 dijo:
 
-"Vengan, chicas, vamos a dar un paseo"
+"Vengan, chicas, vamos a dar un paseo."
 
 ## Verano
 
@@ -194,7 +194,7 @@ cabeza, y pienso que está construida con ladrillos oscuros siguiendo un
 patrón exacto y lineal.
 
 Al otro lado de La Pared, al otro lado del lago donde empieza Canadá,
-puedo escuchar el aullido de dos colimbos
+puedo escuchar el aullido de dos colimbos.
 
 ## Otoño
 

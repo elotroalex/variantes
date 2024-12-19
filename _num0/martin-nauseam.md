@@ -37,7 +37,7 @@ Empiezo a escribir.
 Últimamente siento que cada vez que escribo es en un avión. El
 movimiento siempre ayuda.
 
-Pensé en comprar la revista *Scientific American* antes de embarcar.
+Pensé en comprar la revista _Scientific American_ antes de embarcar.
 \$12. Recordé cómo Artemio lleva años hablando de mi capacidad de
 recordar los precios de casi todo. Tiene sus ventajas, aunque diría que
 más inconvenientes. Intento autoconvencerme de que invierto en salud
