@@ -8,7 +8,7 @@ orden: 5
 bio: ""
 ---
 
-**Day in the Life**
+### Day in the Life
 
 Querida Antonia,
 
@@ -22,6 +22,8 @@ bosque para llegar a México. Oh, cómo se sentía el mundo lleno de
 posibilidades en aquel entonces. Te levantas de la mesa, empujas la
 silla en la mesa y llevas el plato a la cocina.
 
+<br>
+
 Querida Antonia,
 
 El día se ha hecho largo. Tus padres estaban en el trabajo mientras tu
@@ -34,7 +36,9 @@ papá tiene una expresión seria en su rostro, diferente de su sonrisa
 típica y estado de ánimo feliz. Dejan sus maletas y se dirigen a la
 cocina para preparar la cena, poniendo sonrisas en sus rostros.
 
-**_Overhearing Discussion_**
+§
+
+### Overhearing Discussion
 
 Querida Antonia,
 
@@ -54,6 +58,7 @@ decide. Tu padre le quita el brazo a tu madre y se seca una lágrima de
 sus ojos cansados. Esto será difícil, explica, ojalá no fuera la única
 manera. Supongo que se están alejando...
 
+<br>
 
 Querida Antonia,
 
@@ -69,8 +74,9 @@ luego comienzas a llorar. Te preguntas, ¿y tío Juan y tía María? ¿Vienen
 también? De repente te golpea, solo tú y tu familia inmediata se van.
 Tendrás que despedirte de Chile.
 
+§
 
-**Move Out Day**
+### Move Out Day
 
 Querida Antonia,
 
@@ -87,11 +93,11 @@ No te he visto a ti ni a tu familia en mucho tiempo, mucho más tiempo
 del que esperaba. Te extraño mucho. Espero que vuelvas pronto a casa. La
 casa ha estado demasiado silenciosa desde que te fuiste.
 
+§
 
-**Lonely Ghost**
+### Lonely Ghost
 
-
-Querida Antonia, 
+Querida Antonia,
 
 Se siente extraño estar en una casa vacía. Hay polvo acumulado en los
 estantes y los muebles están todos cubiertos por sábanas blancas. Me
@@ -115,8 +121,9 @@ querías vivir en un lugar que tuviera más oportunidades y espero que la
 hayas encontrado. A pesar de que se está solo aquí sin ti, quiero que
 seas feliz. Quiero que tengas la vida que yo no pude tener.
 
+§
 
-**Mom Returns**
+### Mom Returns
 
 Querida Antonia,
 
@@ -127,9 +134,9 @@ Bestia como yo. Tu papá es de Estados Unidos. Tenías un lugar adonde ir,
 un plan, una casa. Se suponía que estabas a salvo. Por favor, dime que
 estás a salvo.
 
+§
 
-
-**Phone Call(s)**
+### Phone Call(s)
 
 Querida Antonia,
 
@@ -144,6 +151,8 @@ Me alegro de que lo estés haciendo bien. Sin embargo, todavía no sé por
 qué tu mamá regresó sola. ¿Pasó algo con la casa en Nueva York? ¿Qué le
 pasó a tu papá?
 
+<br>
+
 Querida Antonia,
 
 Tu mamá habló con tu papá por el altavoz del teléfono. Mencionó algo
@@ -154,6 +163,8 @@ Sé lo que es estar solo. Tuve que dejar atrás a mi familia cuando
 intenté emigrar a los Estados Unidos. Todavía no sé qué pasó con ellos
 después de mi muerte. Me gusta creer que están bien. Vigilaré a tu mamá.
 Puede que no pueda verme, pero estaré aquí. Espero que cuente para algo.
+
+<br>
 
 Querida Antonia,
 
@@ -168,7 +179,6 @@ sesenta años. ¿Crees que tiene familia ahora? Apenas puedo recordar su
 cara. Creo que estaba saliendo con una chica cuando me fui. Tal vez se
 casaron.
 
-
 De todos modos, dijiste que ahora te sentías más capaz y segura de ti
 misma, así que me alegro. Tal vez un poco más de independencia no sea
 tan malo. Sin embargo, quiero que sepas que toda tu familia te apoya,
@@ -176,7 +186,9 @@ incluso si ya no vives con ellos o cerca de ellos. Vienen y le preguntan
 a tu mamá cómo te va. Están muy orgullosos, ¿sabes? ¡Están aquí si los
 necesitas!
 
-**Green Card**
+§
+
+### Green Card
 
 Querida Antonia,
 
@@ -192,8 +204,9 @@ pronto. No estoy listo para la emigración de tu mamá. Nosotros hemos
 pasado mucho tiempo juntos y la quiero mucho. Será muy solitario cuando
 ella se vaya. Ojalá no estuviera sucediendo.
 
+§
 
-**Antonia's Mom Leaves**
+### Antonia's Mom Leaves
 
 Querida Antonia,
 
