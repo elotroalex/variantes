@@ -11,13 +11,13 @@ banner: homepage.png
     <div class="row justify-content-center">
       <div class="col col-10">
         <h2 class="text-center display-4">Bienvenidos! Bem-vindos!</h2>
-        <p>Variantes is the graduate student-run literary and fine arts magazine of the Department of Spanish and Portuguese at Yale Universtiy. We welcome texts and art related to languages of the Iberian Peninsula and the Americas.</p>
+        <p>Welcome to our inaugural issue of <em>Variantes</em>, the graduate student-run literary and fine arts magazine of the Department of Spanish and Portuguese at Yale Universtiy. Our magazine showcases textual, visual and digital arts related to the languages and culture of the Iberian Peninsula and the Americas. We invite you to submit your work for consideration for future issues, and hope you enjoy our selections.</p>
       </div>
     </div>
     <div class="row justify-content-center">
       <div class="col col-10">
         <h2 class="text-center display-1">Issue No. 0</h2>
-        {% for page in site.num0 %}
+        {% assign sorted_pages = site.num0 | sort: 'orden' %} {% for page in sorted_pages %}
         <div class="page-item">
           <h3><a href="{{site.baseurl}}{{ page.url }}">{{ page.title }}</a></h3>
           <p>by {{ page.creators }}</p>
