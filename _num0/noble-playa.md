@@ -5,7 +5,7 @@ creators: "Clark Noble"
 date: 2024-12-01
 issue: 0
 orden: 6
-bio: ""
+bio: "Clark Noble is a first-year Yale undergraduate likely majoring in Latin American Studies and Economics. In high school, he enjoyed learning about Latin-American magical realism and doing an economics internship in Peru. He hopes to synthesize further study of development economics with cultural understanding of Latin America. Clark is also a passionate surfer."
 ---
 
 Mis rodillas detienen mi tabla de surf, instintivamente impidiendo la

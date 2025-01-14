@@ -5,7 +5,7 @@ creators: "Alex Roseman"
 date: 2024-12-01
 issue: 0
 orden: 3
-bio: "Alex Roseman (he/him) (BK '25) is a senior in Yale College studying physics. Following graduation, he plans to spend his time working, at a job, which he will find and then have. He imagines this will involve health insurance somehow. His most recent favorite book is %%EDITORIAL%%."
+bio: "Alex Roseman (he/him) (BK '25) is a senior in Yale College studying physics. Following graduation, he plans to spend his time working, at a job, which he will find and then have. He imagines this will involve health insurance somehow. His most recent favorite book is O Caledonia."
 ---
 
 El primer día es un día tranquilo, calmado como la calma que precede a la tormenta, calmado como el susurro de _uno, dos, tres_, contando los segundos entre el rayo y el trueno. El rayo, porque el árbol que golpeó la casa vino de arriba, y porque fue acompañado por la lluvia, que hizo más daño a la casa de lo que jamás podría haber hecho el rayo. El trueno, porque dentro de siete días la casa necesita una limpieza total, para que los residentes---el padre, la madre y el niño---puedan mudarse a Filadelfia. En el séptimo día, los agentes de mudanzas vendrán y embalarán todo lo que no esté clavado, y luego sacarán los clavos y los embalarán también, además de los muebles. Sacarán los azulejos de los pisos y los pisos de la estructura, sacarán los cables de las paredes y pondrán cables nuevos, reemplazarán lo que está roto y lo que ya no sirve.
@@ -20,7 +20,7 @@ que en general ya no es un niño, no está en Alemania, sino en el
 suburbio en el que creció, pasando el receso de invierno con sus padres.
 Y, como un niño, no quiere limpiar su cuarto.
 
-\*\*\*
+---
 
 En el segundo día, la madre produce unas cajas y bolsas para donar: unas
 para una escuela cercana y otras para amigos de la familia. Es la tarea
@@ -53,7 +53,7 @@ guardarlos.
 Se donan las pinturas y los marcadores, los carros solares y Química
 para Niños, pero no los lápices sin punta.
 
-\*\*\*
+---
 
 En el tercer día, el niño ayuda a su padre. Su primer trabajo es
 escribir ROSEMAN (el nombre de la familia) en letras grandes en todas
@@ -80,7 +80,7 @@ padre tiene una herida en el dedo, pero insiste en llevar las cajas
 pesadas, o en que el niño y su padre compartan el peso, mientras el niño
 podría llevarlas por sí mismo. *Permíteme ayudarte*, piensa.
 
-\*\*\*
+---
 
 En el cuarto día, el niño y su madre limpian el sótano. No es la
 actividad preferida por cualquiera de los dos. La madre preferiría
@@ -112,7 +112,7 @@ fichas, pero el niño piensa que a un niño al que le encantan los
 Pokémon, como él hace muchos años, las fichas perdidas no le importarían
 mucho.
 
-\*\*\*
+---
 
 En el quinto día, la madre y su hijo siguen limpiando el sótano. Muchas
 cosas se colocan en cajas, pero de todas, el niño solo va a recordar
@@ -127,7 +127,7 @@ Luego, coloca todos los legos en el contenedor y lo cierra. No es una
 decisión---obviamente el niño no va a usar los legos dentro de diez
 años---pero el momento de romper se repite una y otra vez en su mente.
 
-\*\*\*
+---
 
 En el sexto día, el último día antes de que lleguen los agentes de
 mudanzas, el niño limpia su cuarto.
@@ -161,7 +161,7 @@ plástico, una pulsera, unas monedas.
 Es demasiado. El niño tira lo que puede, toma algo y deja lo demás. Esa
 noche, la familia duerme en Filadelfia.
 
-\*\*\*
+---
 
 En el séptimo día, el niño se despierta en la nueva casa temporal en
 Filadelfia.

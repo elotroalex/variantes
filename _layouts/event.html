@@ -3,13 +3,11 @@ layout: default
 ---
 
 <!-- Events Header -->
-<header
-  class="masthead event {% if page.banner %}banner{%else%}short{% endif %}"
->
+<header class="masthead event {% if page.banner %}banner{%else%}short{% endif %}">
   {% if page.banner %}
   <div
     class="parallax"
-    style="background-image: url('/images/encounters/{{page.banner}}'); background-attachment: fixed;
+    style="background-image: url('/variantes/images/encounters/{{page.banner}}'); background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -27,14 +25,10 @@ layout: default
       {% if page.series %}
       <span class="fw-light series text-muted">{{page.series}}</span>
       {% endif %}
-      <h1
-        class="fw-light display-3 text-primary"
-        data-mdb-toggle="animation"
-        data-mdb-animation-reset="true"
-        data-mdb-animation="fade-in-left"
-        data-mdb-animation-start="onLoad"
-      >
-        {{page.title | markdownify | remove: '<p>' |  remove: '</p>'  }}
+      <h1 class="fw-light display-3 text-primary" data-mdb-toggle="animation" data-mdb-animation-reset="true" data-mdb-animation="fade-in-left" data-mdb-animation-start="onLoad">
+        {{page.title | markdownify | remove: '
+        <p>' | remove: '</p>
+        ' }}
       </h1>
 
       {% if page.subtitle %}
@@ -71,32 +65,15 @@ layout: default
     <div class="col-sm-12 col-md-8">
       {{content}}
       <br />
-      <a
-        href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{page.title}}&details={{page.description}}&dates={{ page.calendar }}&location={{page.location}}"
-        target="_blank"
-        ><button type="button" class="btn btn-warning text-white">
-          Add to Calendar
-        </button></a
-      >
+      <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text={{page.title}}&details={{page.description}}&dates={{ page.calendar }}&location={{page.location}}" target="_blank"><button type="button" class="btn btn-warning text-white">Add to Calendar</button></a>
 
       {% if page.zoom %}
 
-      <a href="{{page.zoom}}" class="ps-2" target="_blank"
-        ><button type="button" class="btn btn-warning text-white">
-          Zoom Registration
-        </button></a
-      >
+      <a href="{{page.zoom}}" class="ps-2" target="_blank"><button type="button" class="btn btn-warning text-white">Zoom Registration</button></a>
 
       {% endif %} {% if page.poster %}
 
-      <a
-        href="{{site.url}}/posters/{{page.poster}}"
-        class="ps-2"
-        target="_blank"
-        ><button type="button" class="btn btn-warning text-white">
-          Download Poster
-        </button></a
-      >
+      <a href="{{site.url}}/posters/{{page.poster}}" class="ps-2" target="_blank"><button type="button" class="btn btn-warning text-white">Download Poster</button></a>
 
       {% endif %} {% if page.caption %}
 

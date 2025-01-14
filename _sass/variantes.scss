@@ -1,0 +1,308 @@
+
+
+/* Custom Variables */
+
+$primary: #00365b; /* change Bootstrap 5 primary color to red */
+$blue: #00365b;
+$yellow: #be7e45;
+
+@use "bootstrap-5.3.3/css/bootstrap";
+
+/* Bootstrap Overrides */
+
+p { font-size: 18px; }
+
+a {
+    color: $primary;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+
+
+/* Custom Styles */
+
+
+
+
+@font-face {
+    font-family: 'Yale New Roman';
+    src: url(/variantes/assets/fonts/YaleNewRoman.otf) format(opentype);
+}
+
+@font-face {
+    font-family: 'Mallory Light';
+    src: url(/variantes/assets/fonts/MalloryLight.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: 'Mallory Book';
+    src: url(/variantes/assets/fonts/MalloryBook.ttf) format(truetype);
+}
+
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+
+$bodyFont: "Yale New Roman",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Mallory Light';
+}
+
+.page h1 {
+    color: $primary;
+    border: none;
+    -webkit-text-stroke: none;
+} 
+
+// Navbar
+
+.home-nav-title, .navbar-brand {
+    display: none;
+    font-family: 'Mallory Light',Helvetica,Arial,sans-serif;
+}
+
+.navbar-brand-visible {
+    display: inline;
+}
+
+.nav-title {
+    font-family: 'Mallory Light',Helvetica,Arial,sans-serif;
+}
+
+nav.scrolled .home-nav-title, nav.scrolled .navbar-brand, nav.scrolled .nav-title {
+    display: inline;
+    color: white !important;
+}
+
+@media screen and (max-width: 380px) {
+    .home-nav-title, .nav-title {
+        display: none;
+    }
+  }
+
+
+nav {
+    transition: background-color 0.4s ease-in-out;
+}
+
+.nav-item {
+    margin: 0 0.2rem;
+    font-size: 1.4rem;
+}
+
+nav.scrolled {
+    background-color: #00365b !important;
+    opacity: .9 !important;
+}
+
+.navbar-brand {
+    color: #00365b;
+}
+
+// Masthead
+
+
+.banner {
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    border-bottom: 2px solid black;
+}
+
+.masthead.event.banner {
+    height: 80vh;
+    min-height: 200px;
+    background-size: cover;
+    border-bottom: 0;
+}
+
+.masthead.short {
+    margin: 20vh 0 10vh 0;
+}
+
+.masthead.home.banner {
+    background-image: url('/variantes/images/banner-outline.png');
+    animation: firstImage ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    background-position-y: center; 
+}
+
+@keyframes firstImage {
+    0% {        
+        opacity: .1;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.final-image {
+    animation: finalImage ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    background-image: url('/variantes/images/banner-color.png');
+    background-size: cover;
+    background-position-y: center; 
+    height: 100vh;
+}
+
+@keyframes finalImage {
+    0% {
+        opacity: .0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+
+.masthead.home h1 {
+    animation: fadeInAnimation ease-in 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.atspanport {
+    animation: fadeInAnimation ease-in 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    font-size: 1.6rem;
+    color: #00365b;
+    // text-shadow: 1px 0px 1px black;
+}
+@media screen and (max-width: 767px) {
+    .atspanport {
+        display: none;
+    }
+}
+
+.masthead h1 {
+    animation: fadeInAnimation ease-in 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: .3;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.masthead.home h1 {
+    font-family: 'Mallory Book';
+    font-size: 12vw;
+    -webkit-text-stroke: 2px #00365b; /* width and color */
+}
+
+.masthead.page h1 {
+    font-size: 1.6rem;
+}
+
+.masthead.event h1 {
+    font-family: 'Mallory Book';
+    -webkit-text-stroke: 2px #00365b; /* width and color */
+}
+
+.masthead .lead {
+    color: #f9f9f9;
+    font-size: 1.4rem;
+}
+
+// Buttons
+
+.btn-primary {
+    background-color: $primary !important;
+    border-color: $primary !important;
+}
+
+.btn-primary:hover {
+    background-color: $yellow !important;
+    border-color: $yellow !important;
+}
+
+// Quotes
+blockquote {
+    // font-family: 'Mallory Light';
+    font-size: 1.2rem;
+    color: #00365b;
+    margin: 0;
+}
+
+//  Featured Events
+
+.featured {
+    min-height: 300px;
+    background-size: cover;
+    border-bottom: 0;
+}
+
+.featured-img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.flush-col {
+    padding: 0;
+}
+
+// Buttons
+
+button {
+    font-family: 'Mallory Book' !important;
+}
+
+span.series {
+    display: block;
+    margin-top: 1rem;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+}
+
+span.series-thumb {
+    display: block;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+}
+
+.caption {
+    font-size: 0.8rem;
+}
+
+.u-email {
+    text-decoration: none;
+}
+
+blockquote {
+    margin-left: 1rem;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+  

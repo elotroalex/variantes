@@ -1,14 +1,14 @@
 ---
 layout: work
 title: "Cartas a Antonia"
-creators: "Carrie, Jaidyn y Aaira"
+creators: "Carrie Lange, Jaidyn Hurst y Aaira Choudhury"
 date: 2024-12-01
 issue: 0
 orden: 5
 bio: ""
 ---
 
-## **Day in the Life**
+### Day in the Life
 
 Querida Antonia,
 
@@ -22,6 +22,8 @@ bosque para llegar a México. Oh, cómo se sentía el mundo lleno de
 posibilidades en aquel entonces. Te levantas de la mesa, empujas la
 silla en la mesa y llevas el plato a la cocina.
 
+<br>
+
 Querida Antonia,
 
 El día se ha hecho largo. Tus padres estaban en el trabajo mientras tu
@@ -34,7 +36,9 @@ papá tiene una expresión seria en su rostro, diferente de su sonrisa
 típica y estado de ánimo feliz. Dejan sus maletas y se dirigen a la
 cocina para preparar la cena, poniendo sonrisas en sus rostros.
 
-**_Overhearing Discussion_**
+§
+
+### Overhearing Discussion
 
 Querida Antonia,
 
@@ -54,15 +58,7 @@ decide. Tu padre le quita el brazo a tu madre y se seca una lágrima de
 sus ojos cansados. Esto será difícil, explica, ojalá no fuera la única
 manera. Supongo que se están alejando...
 
-##
-
-##
-
-##
-
-##
-
-## **Telling Antonia/Packing** [[Link]{.underline}](https://www.npr.org/sections/goatsandsoda/2017/12/23/572564038/see-dioramas-of-refugee-homes-each-re-created-in-an-old-fashioned-suitcase)
+<br>
 
 Querida Antonia,
 
@@ -77,17 +73,17 @@ a los Estados Unidos. Te quedas en silencio, pareces sorprendida, y
 luego comienzas a llorar. Te preguntas, ¿y tío Juan y tía María? ¿Vienen
 también? De repente te golpea, solo tú y tu familia inmediata se van.
 Tendrás que despedirte de Chile.
-![](media/image1.png){width="3.670952537182852in"
-height="3.088542213473316in"}
 
-## **Move Out Day**
+§
 
-## Querida Antonia,
+### Move Out Day
+
+Querida Antonia,
 
 No lo vi venir cuando te fuiste. Todas las necesidades permanecen en
 casa. Todos los miembros de tu familia hicieron solo una maleta. Cuando
-todos ustedes estaban empacando, me di cuenta de que [habías
-empacado]{.mark} ropa para todo tipo de clima. Estaba un poco confundido
+todos ustedes estaban empacando, me di cuenta de que habías
+empacado ropa para todo tipo de clima. Estaba un poco confundido
 porque ¿quién necesita tanto una chaqueta de invierno como un vestido?
 Pensé que te ibas de vacaciones y que tendría un poco de tiempo para mí.
 Pensé que ibas a hacer una gira mundial con tu familia o algo tan
@@ -97,14 +93,11 @@ No te he visto a ti ni a tu familia en mucho tiempo, mucho más tiempo
 del que esperaba. Te extraño mucho. Espero que vuelvas pronto a casa. La
 casa ha estado demasiado silenciosa desde que te fuiste.
 
-##
+§
 
-## **Lonely Ghost**
+### Lonely Ghost
 
-## [Link]{.underline}
-
-Querida Antonia, ![](media/image2.png){width="4.276042213473316in"
-height="3.4705818022747157in"}
+Querida Antonia,
 
 Se siente extraño estar en una casa vacía. Hay polvo acumulado en los
 estantes y los muebles están todos cubiertos por sábanas blancas. Me
@@ -128,12 +121,11 @@ querías vivir en un lugar que tuviera más oportunidades y espero que la
 hayas encontrado. A pesar de que se está solo aquí sin ti, quiero que
 seas feliz. Quiero que tengas la vida que yo no pude tener.
 
-##
+§
 
-## **Mom Returns**
+### Mom Returns
 
-Querida Antonia, ![](media/image3.png){width="6.5in"
-height="1.4166666666666667in"}
+Querida Antonia,
 
 Tu mamá regresó a casa hoy. Ahora está dormida, pero antes estaba
 llorando en la cocina. No sé qué está pasando, ¿estás bien? ¿Por qué
@@ -142,14 +134,11 @@ Bestia como yo. Tu papá es de Estados Unidos. Tenías un lugar adonde ir,
 un plan, una casa. Se suponía que estabas a salvo. Por favor, dime que
 estás a salvo.
 
-##
+§
 
-## **Phone Call(s)**
+### Phone Call(s)
 
 Querida Antonia,
-
-[[Link]{.underline}](https://raymondlogan.blogspot.com/2011/02/old-telephone.html)![](media/image4.png){width="2.9531255468066493in"
-height="2.2869553805774276in"}
 
 Escuché la llamada telefónica que tuviste con tu mamá hoy, así que sé
 que estás viva. Te preguntó cómo te iba en Yale. No puedo creer que
@@ -162,6 +151,8 @@ Me alegro de que lo estés haciendo bien. Sin embargo, todavía no sé por
 qué tu mamá regresó sola. ¿Pasó algo con la casa en Nueva York? ¿Qué le
 pasó a tu papá?
 
+<br>
+
 Querida Antonia,
 
 Tu mamá habló con tu papá por el altavoz del teléfono. Mencionó algo
@@ -172,6 +163,8 @@ Sé lo que es estar solo. Tuve que dejar atrás a mi familia cuando
 intenté emigrar a los Estados Unidos. Todavía no sé qué pasó con ellos
 después de mi muerte. Me gusta creer que están bien. Vigilaré a tu mamá.
 Puede que no pueda verme, pero estaré aquí. Espero que cuente para algo.
+
+<br>
 
 Querida Antonia,
 
@@ -186,16 +179,16 @@ sesenta años. ¿Crees que tiene familia ahora? Apenas puedo recordar su
 cara. Creo que estaba saliendo con una chica cuando me fui. Tal vez se
 casaron.
 
-[[Link]{.underline}](https://www.aclu.org/news/immigrants-rights/family-separation-two-years-after-ms-l)
-
 De todos modos, dijiste que ahora te sentías más capaz y segura de ti
 misma, así que me alegro. Tal vez un poco más de independencia no sea
 tan malo. Sin embargo, quiero que sepas que toda tu familia te apoya,
 incluso si ya no vives con ellos o cerca de ellos. Vienen y le preguntan
-a tu mamá cómo te va. Están muy orgullosos, ¿sabes? Están aquí si los
-necesitas.![](media/image5.png){width="6.5in" height="3.25in"}
+a tu mamá cómo te va. Están muy orgullosos, ¿sabes? ¡Están aquí si los
+necesitas!
 
-## **Green Card**
+§
+
+### Green Card
 
 Querida Antonia,
 
@@ -211,9 +204,9 @@ pronto. No estoy listo para la emigración de tu mamá. Nosotros hemos
 pasado mucho tiempo juntos y la quiero mucho. Será muy solitario cuando
 ella se vaya. Ojalá no estuviera sucediendo.
 
-##
+§
 
-## **Antonia's Mom Leaves**
+### Antonia's Mom Leaves
 
 Querida Antonia,
 
