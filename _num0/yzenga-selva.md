@@ -1,7 +1,7 @@
 ---
 layout: work
 title: "Aquello que la selva oculta"
-creators: "Efrén Yzenga Martínez"
+creators: "Efrén Ynzenga Martínez"
 date: 2024-12-01
 issue: 0
 orden: 8
