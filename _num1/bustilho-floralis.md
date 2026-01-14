@@ -29,7 +29,7 @@ refletido no espelho d’água não é o coração de nada
 que toda troncha desabrocha pela manhã  
 a imensa flor genérica com seu sonho de ser  
 ideal de flor com seu metal mágico  
-- metástase da flor  
+--- metástase da flor  
 
 4.  
 flor asséptica não rompeste o betume  
