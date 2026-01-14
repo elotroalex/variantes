@@ -41,7 +41,7 @@ antes de enviarlo
 al lado de las fieras.  
 
 Quería, además,  
-saber lo que la curiosidad hace a los gatos:
+saber lo que la curiosidad hace a los gatos:  
                                             despellejarlos.  
 Qué más
 
