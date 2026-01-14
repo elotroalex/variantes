@@ -42,8 +42,8 @@ al lado de las fieras.
 
 Quería, además,  
 saber lo que la curiosidad hace a los gatos:  
-                                            despellejarlos.  
-Qué más
+                                                        despellejarlos.  
+Qué más  
 
 _Ya es bastante con el mar._  
 
