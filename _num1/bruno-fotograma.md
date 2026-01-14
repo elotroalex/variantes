@@ -21,7 +21,7 @@ de sulfeto de hidrogênio da Lexington Avenue
 de terno sob medida e chapéu fascinator bege  
 com laço de cetim pensando indubitavelmente  
 no Cary Grant e na Deborah Kerr que quase  
-alcançou o Empire State. E enquanto vagueia 
+alcançou o Empire State. E enquanto vagueia  
 sob a coroa solar de um arranha-céu ela pensa  
 que nada restou daquela garotinha que roubava  
 ovos e corria entre roseiras. A não ser a tristeza  
