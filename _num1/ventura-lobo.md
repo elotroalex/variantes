@@ -10,67 +10,67 @@ bio: "Escritora y docente. Realizó estudios literarios en la Universidad Autón
 
 ## Viejo lobo de mar
 
-Tuve en el pasado tres pelos de tonta
-por meterme en la cama del que no quería monstruos.
+Tuve en el pasado tres pelos de tonta  
+por meterme en la cama del que no quería monstruos.  
 
-_Tengo suficiente con el mar, chica suave, chica terca,_
-repetía por las banquetas del puerto.
+_Tengo suficiente con el mar, chica suave, chica terca,_  
+repetía por las banquetas del puerto.  
 
-Y yo con mis tentáculos tendí una trampa,
-una araña donde columpié dos, tres elefantes.
+Y yo con mis tentáculos tendí una trampa,  
+una araña donde columpié dos, tres elefantes.  
 
-_Chica suave, chica terca, tengo suficiente._
+_Chica suave, chica terca, tengo suficiente._  
 
-Tendí una red para ver pornografía
-en los celulares de mis compañeros.
-Me sentía pescadora.
+Tendí una red para ver pornografía  
+en los celulares de mis compañeros.  
+Me sentía pescadora.  
 
-Tendí una red y una cama al lado de la suya,
-en su habitación.
+Tendí una red y una cama al lado de la suya,  
+en su habitación.  
 
-Pensé que sería agradable
-meterme en sus huesos
-y roerlo hasta dejar de ser tonta,
-de tener tres pelos.
+Pensé que sería agradable  
+meterme en sus huesos  
+y roerlo hasta dejar de ser tonta,  
+de tener tres pelos.  
 
-_Tengo suficiente, suficiente._
+_Tengo suficiente, suficiente._  
 
-Con mis tentáculos quería
-mancharle la frente de rojo
-antes de enviarlo
-al lado de las fieras.
+Con mis tentáculos quería  
+mancharle la frente de rojo  
+antes de enviarlo  
+al lado de las fieras.  
 
-Quería, además,
+Quería, además,  
 saber lo que la curiosidad hace a los gatos:
-despellejarlos.
-Qué más.
+                                                        despellejarlos.
+Qué más
 
-_Ya es bastante con el mar._
+_Ya es bastante con el mar._  
 
-¿Qué se puede hacer con los curiosos,
-qué con los lobos de mar?
+¿Qué se puede hacer con los curiosos,  
+qué con los lobos de mar?  
 
 
 ## Un hombre, un lobo: la fuerza, el abismo
 
-Un hombre es un cuerpo:
-soporta la crueldad.
-Un hombre, un cuerpo:
-soporta.
+Un hombre es un cuerpo:  
+soporta la crueldad.  
+Un hombre, un cuerpo:  
+soporta.  
 
-Un lobo mira con fuerza el abismo.
-Soporta la crueldad,
-sobrevive a la crueldad:
-lobo.
-Eres un cuerpo, la fuerza.
+Un lobo mira con fuerza el abismo.  
+Soporta la crueldad,  
+sobrevive a la crueldad:  
+lobo.  
+Eres un cuerpo, la fuerza.  
 
-Mira,
-la trama del bosque.
+Mira,  
+la trama del bosque.  
 
-Las corrientes marinas
-me han traído estas rocas.
-Ya no queda nadie como yo.
-Debo sumergirme en el olvido.
+Las corrientes marinas  
+me han traído estas rocas.  
+Ya no queda nadie como yo.  
+Debo sumergirme en el olvido.  
 
 Lo que conocí se incendia:
 un cuerpo húmedo
