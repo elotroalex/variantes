@@ -10,7 +10,7 @@ bio: "Diego A. Guerrero Medina, (México, 1992). Poeta y activista gay. Su poema
 
 ## Arcanos mayores
 
-<div style="text-align: right">
+<div align="right">
 <em>(En memoria de Maiiky Trauma)</em>
 </div>
 
