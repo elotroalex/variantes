@@ -28,10 +28,10 @@ y el frío contacto adormecido
 los sobresalta. Vacilan, dudan,   
 pero pisan el suelo helado  
 
-——— y se suceden hasta el cariño  
+— y se suceden hasta el cariño  
 de la alfombra ante el tocador  
-——— y hasta el azulejo de la cocina,   
-——— y otra vez bajo la sábana, donde   
+— y hasta el azulejo de la cocina,   
+— y otra vez bajo la sábana, donde   
 van a calentarse al contacto con la super  
 ficie de otro par de pies adormecidos.  
 
