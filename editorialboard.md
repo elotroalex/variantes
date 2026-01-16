@@ -5,17 +5,19 @@ title: "Editorial Board"
 
 ### Lead Editor
 
-Ana Fernández-Blázquez
+Katherina Frangi
 
 ### Section Editors
 
-Katherina Frangi  
+Briseyda Barrientos Ariza  
+Ana Fernández-Blázquez  
 Casandra Garza Reséndez  
-Sofía Masdeu  
+Sofía Masdeu 
+Isabella Maganda Garcia Bernstein
 Orit Gugenheim Katz  
-Sofía Fernández González  
-Luis Prieto  
+Sofía Fernández González
 Zoe Guiney
+Halle Keane
 
 ### Assesing Faculty
 
@@ -28,7 +30,6 @@ Olivia Lott
 
 Ana Fernández-Blázquez  
 Alex Gil  
-Luis Prieto, pero todavía no lo sabe.
 
 ---
 
