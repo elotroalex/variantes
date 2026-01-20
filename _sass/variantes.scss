@@ -10,7 +10,7 @@ $yellow: #be7e45;
 
 /* Bootstrap Overrides */
 
-p { font-size: 18px; }
+p { font-size: 1.4rem; }
 
 a {
     color: $primary;
@@ -62,6 +62,11 @@ h1, h2, h3, h4 {
     border: none;
     -webkit-text-stroke: none;
 } 
+
+.page p {
+    font-size: 2rem;
+    color: red;
+}
 
 // Navbar
 

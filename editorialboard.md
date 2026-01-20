@@ -12,11 +12,11 @@ Katherina Frangi
 Briseyda Barrientos Ariza  
 Ana Fernández-Blázquez  
 Casandra Garza Reséndez  
-Sofía Masdeu 
-Isabella Maganda Garcia Bernstein
+Sofía Masdeu  
+Isabella Maganda Garcia Bernstein  
 Orit Gugenheim Katz  
-Sofía Fernández González
-Zoe Guiney
+Sofía Fernández González  
+Zoe Guiney  
 Halle Keane
 
 ### Assesing Faculty
@@ -29,7 +29,7 @@ Olivia Lott
 ### Web Production Team
 
 Ana Fernández-Blázquez  
-Alex Gil  
+Alex Gil
 
 ---
 
