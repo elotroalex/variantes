@@ -9,6 +9,8 @@ email: ana.fernandez-blazquez@yale.edu
 collections:
   num0:
     output: true
+  num1:
+    output: true
 
 sass:
   load_paths:
