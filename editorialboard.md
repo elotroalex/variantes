@@ -19,6 +19,10 @@ Sofía Fernández González
 Zoe Guiney  
 Halle Keane
 
+### Communications
+
+Sofía Masdeu
+
 ### Assesing Faculty
 
 Mayte López  
@@ -29,6 +33,7 @@ Olivia Lott
 ### Web Production Team
 
 Ana Fernández-Blázquez  
+Katherina Frangi  
 Alex Gil
 
 ---
