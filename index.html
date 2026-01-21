@@ -16,7 +16,7 @@ banner: homepage.png
     </div> -->
     <div class="row justify-content-center">
       <div class="col col-10">
-        <h2 class="text-center display-1">Issue No. 1</h2>
+        <h2 class="text-center display-1 p-5">Issue No. 1</h2>
         {% assign sorted_pages = site.num1 | sort: 'orden' %} {% for page in sorted_pages %}
         <div class="page-item">
           <h3><a href="{{site.baseurl}}{{ page.url }}">{{ page.title }}</a></h3>
