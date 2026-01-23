@@ -14,12 +14,12 @@ bio: "João Moura Fernandes is a poet, translator, and researcher from Rio de Ja
 <em>A Gabriela Busot</em>
 </div>
 
-Mis pies descalzos, en
-vueltos por la suavidad
-de la sábana finísima, 
-bajo el peso del edredón
-de arena que los abriga,
-despiertan a regañadientes.
+Mis pies descalzos, en  
+vueltos por la suavidad  
+de la sábana finísima,   
+bajo el peso del edredón  
+de arena que los abriga,  
+despiertan a regañadientes.  
 
 Se deslizan hacia un ex  
 tremo de la cama, caen  
@@ -47,33 +47,32 @@ por medio de esa travesura de mis pies.
 
 ## Córdoba
 
+Feitos de granito e jaspe  
+cruzamos obsoletos a tarde  
 
-Feitos de granito e jaspe
-cruzamos obsoletos a tarde 
+sem saber o que causa a noite  
+dentro de nós.  
 
-sem saber o que causa a noite
-dentro de nós.
+Nas arcadas da nova catedral  
+pisamos a mesquita antiga.  
 
-Nas arcadas da nova catedral
-pisamos a mesquita antiga.
+Como se calaram em nós Rio  
+e Antilhas, não sabemos.  
 
-Como se calaram em nós Rio
-e Antilhas, não sabemos.
+Como se turvou a vidência cristalina  
+dos antepassados, não saberemos.  
 
-Como se turvou a vidência cristalina
-dos antepassados, não saberemos.
+A memória de outros mares  
+não molha o empedrado de las calles  
 
-A memória de outros mares
-não molha o empedrado de las calles
+enquanto a calima expurga a chuva  
+de sua transparência impura.  
 
-enquanto a calima expurga a chuva
-de sua transparência impura.
+Somos calima em chuva ibérica:  
+pó trespassado por precipitação  
 
-Somos calima em chuva ibérica:
-pó trespassado por precipitação
+fundindo e fecundando  
+o Guadalquivir  
 
-fundindo e fecundando
-o Guadalquivir
-
-mar de dentro.
+mar de dentro.  
 
