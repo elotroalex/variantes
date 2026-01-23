@@ -8,8 +8,6 @@ orden: 19
 bio: "Liberal Arts student at Universidad San Francisco de Quito, Ecuador, with a minor in Creative Writing. I am editor-in-chief of the academic journal Ánima and editorial intern of the communications and contemporary art journal, post(s)."
 ---
 
-## Caldito de gallina
-
 chop  
 chop  
 chop  
