@@ -8,10 +8,6 @@ orden: 5
 bio: "Amado Marte Taveras was born in the Dominican Republic in 1992. At the age of 17 he moved to New York with his family. He is is part of a theater group call Anacaona Theater in which he has written, directed, and acted. Currently he is seeking a PhD doctorate in Caribbean studies at Temple University. "
 ---
 
-## El pastorcito que gritó los lobos
-
----
-
 <div align="center">
 
 **Personajes:**  
