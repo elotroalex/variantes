@@ -12,17 +12,18 @@ bio: "Iván Sánchez (Leganés, Madrid, 2003) estudia Filología Española en la
 
 <div align="right">
 
-*¿Y por qué tanto besarnos?*  
-*¿Y por qué tanto mordernos*  
-*si ni tú ni yo existimos en esta nada adorable?*  
+¿Y por qué tanto besarnos?    
+¿Y por qué tanto mordernos   
+si ni tú ni yo existimos en esta nada adorable?   
+
 Gabriel Celaya, «Alfa 2»
 
 </div>
 
-Más pequeño que tú y yo,  
-más pequeño que la vida,  
-más pequeño que los besos,  
-incluso más que la brisa  
+Más pequeño que tú y yo,   
+más pequeño que la vida,   
+más pequeño que los besos,   
+incluso más que la brisa   
 que corre en los veranos  
 huyendo entre estrías  
 de cálidos rayos de sol:  
@@ -56,9 +57,9 @@ hasta el fin de los días.
 
 <div align="right">
 
-*Que la vida iba en serio*  
-*uno lo empieza a comprender más tarde*  
-Jaime Gil de Biedma, «No volveré a ser joven»
+Que la vida iba en serio   
+uno lo empieza a comprender más tarde   
+Jaime Gil de Biedma, «No volveré a ser joven»   
 
 </div>
 
