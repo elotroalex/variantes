@@ -8,8 +8,6 @@ orden: 6
 bio: "1975, Tijuana, B.C. MEX, Lic. En Comunicación en la UABC."
 ---
 
-## Nunca imaginé
-
 Nunca imaginé que jamás saldría de mi ciudad. Tenía el sueño de la aventura por otros lares que se quedaron como películas pausadas en una cabeza llena de miedo ante la incertidumbre de pagar o no la renta; una familia que me jalaba en ese muégano de complicidades que se da con los hermanos, los que parecían ser adoptados y en quienes, de pronto, en el camino a la vejez, apreciaba por fin las similitudes incluso al estornudar.
 
 Nunca imaginé que los edificios empezarían a erigirse ahí donde solo había piedras y matorrales ocultando lagartijas y culebras. Vi desaparecer los cerros pelones que tanto odiaba del paisaje desértico, preguntándome por qué razón mis padres habían elegido un lugar color ocre para buscar mejor vida, sin haber considerado un clima tropical color verde o azul, uno que nos hiciera sudar y no resguardarnos debajo de cobijas cada mes de enero. 
