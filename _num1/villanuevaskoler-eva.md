@@ -91,8 +91,8 @@ Some night, “*You/Man* will come home with *It/Me*,” I pray to myself, befor
 No supe cómo explicarle que no importaba lo que dijera, por más que la conversación fluyera, *yo* no fluyo como él quiere. Digo mucho pero hago poco, nada pasa como lo manifiesto, y cuando por fin algo ocurre—a qué precio. 
 
 <div align="center">
-_“Sal en 15”_    
-_“Ok”_ 
+“Sal en 15”    
+“Ok”  
 </div>
 
 “Esto no es normal, sentirte así no está bien”, me repito cada vez que un impulso sobrepasa mi capacidad de negarme, cuando mi código biológico avisa: “Hoy sí te toca. Busca a alguien. Algo. Busca algo que nos recuerde el propósito de haber nacido en este cuerpo”.
