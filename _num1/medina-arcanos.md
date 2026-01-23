@@ -8,8 +8,6 @@ orden: 9
 bio: "Diego A. Guerrero Medina, (México, 1992). Poeta y activista gay. Su poemario Prometeo, ganó el segundo lugar del IX Concurso Internacional de Poesía Caminos de la Libertad. Autor de El llanto es un perro inmenso (2020), Una caricia sin venganzas (2024), ambos editados por Vitrali Ediciones, así como de Los obituarios de Patroclo (2025) por Dogma Editorial. Miembro del colectivo de poesía gay Novísimxs. También fue becario del PECDA (2024-2025) Estado de México."
 ---
 
-## Arcanos mayores
-
 <div align="right">
 <em>(En memoria de Maiiky Trauma)</em>
 </div>

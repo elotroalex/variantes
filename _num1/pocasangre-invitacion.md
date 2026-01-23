@@ -11,8 +11,6 @@ inglés, francés, italiano y alemán. También he recibido algunos premios. Sin
 Literatura nos hace darnos la mano."
 ---
 
-## Invitación cordial
-
 Si trae usted pan, venga.  
 No sólo traiga lástima  
 y palabras bondadosas y de ánimo  
