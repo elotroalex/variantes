@@ -1,7 +1,9 @@
 - title: About
   url: /variantes/about.html
 - title: Past Issues
-  url: /variantes/num0.html
+  sublinks:
+    - title: Issue 0
+      url: /variantes/num0.html
 # - title: Issues
 #   url: /variantes/issues.html
 # - title: Open Call
