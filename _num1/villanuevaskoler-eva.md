@@ -48,9 +48,15 @@ I walked into my room, another night, like many that have come before, like the 
 
 I’ve spent so many evenings like this. Ever since I realized something was missing without knowing what *It* is—*It* has grown, gotten deeper, more intense. *It* eats away on route to the depths of my being, hoping to touch ground, or a wall, or something strong enough to keep *It* still. And perhaps that’s it, what’s missing isn’t something or someone to fill the holes—but to keep *It* from spreading. 
 
-Sometime near eleventh grade, I named that *You*. Not *You*—the specifics of someone. *You*—a force capable of keeping *It* from expanding. *You*, like Man, does something to me, unlike Man where I become something I’m not, where I respond to urges far from my control. Instead, I’m seen for what I am, something blank, a page I wrote myself, a name uttered for *my* pleasure, not his. *You*, unlike Man, has no image for me to mold into. *You*, unlike Man, listens to what I say, not how I say it. You, unlike Man, knows more than just my body. 
+<div style="text-align: center; max-width: 800px; margin: 0 auto;">
+<p style="text-align: justify;">
+Sometime near eleventh grade, I named that <em>You</em>. Not <em>You</em>—the specifics of someone. <em>You</em>—a force capable of keeping <em>It</em> from expanding. <em>You</em>, like Man, does something to me, unlike Man where I become something I'm not, where I respond to urges far from my control. Instead, I'm seen for what I am, something blank, a page I wrote myself, a name uttered for <em>my</em> pleasure, not his. <em>You</em>, unlike Man, has no image for me to mold into. <em>You</em>, unlike Man, listens to what I say, not how I say it. You, unlike Man, knows more than just my body.
+</p>
+</div>
 
+<div align="center">
 Yet Man, unlike *You*, is real. 
+</div>
 
 Ambiguity haunts what I say, what I share; most believe me lonely, some know me to be tired, anxious, blue; I, well, am uncertain. 
 
@@ -60,16 +66,18 @@ All I know is, I open my mouth, open my thoughts, and what pours is an ode, a pl
 
 *You* wouldn’t know that, *You* never witness the thing killing me, craving to own me. I bear the world with *You* in mind. There’s not much *You* can do with me, but I promise—I am worth something. 
 
-I can try to be worth something…  
-At the very least, let me try.   
-I see *You* in the many versions of Man. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I can try to be worth something…   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the very least, let me try.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I see *You* in the many versions of Man. 
 
 And from the deepest, most buried impulse in my body, desire lassos Man to me, tethers my heart and mind to what my ears and eyes consume. My stomach churns, as if hungry, when my only hunger is a consequence of my heart’s famished state. In the eyes of others, I may never win; what I am will never find embrace as I access the light.
 
+<div align="center">
 Tonight I write this, lost,   
 always lost,  
 in time and space,   
 in the absence of victory.
+</div>
 
 Perhaps dawn will break and day will reek of good fortune. I know tomorrow night will follow a tight script and I, with no end in sight, must follow suit. 
 
@@ -82,8 +90,10 @@ Some night, “*You/Man* will come home with *It/Me*,” I pray to myself, befor
 					  
 No supe cómo explicarle que no importaba lo que dijera, por más que la conversación fluyera, *yo* no fluyo como él quiere. Digo mucho pero hago poco, nada pasa como lo manifiesto, y cuando por fin algo ocurre—a qué precio. 
 
-*“Sal en 15”*  
-*“Ok”*
+<div align="center">
+_“Sal en 15”_    
+_“Ok”_ 
+</div>
 
 “Esto no es normal, sentirte así no está bien”, me repito cada vez que un impulso sobrepasa mi capacidad de negarme, cuando mi código biológico avisa: “Hoy sí te toca. Busca a alguien. Algo. Busca algo que nos recuerde el propósito de haber nacido en este cuerpo”.
 
@@ -102,9 +112,11 @@ Seguí las direcciones que me había enviado, y con cada calle y cruce mi ansied
 
 Llegué, esperé afuera cinco minutos, ideando, respirando.
 
-*“Estoy aquí”*   
-*“Ok, ahora te abro”*   
-*“Dale”* 
+<div align="center">
+_“Estoy aquí”_      
+_“Ok, ahora te abro”_    
+_“Dale”_   
+</div>
 
 En la esquina de una ventana lo vi, arreglándose el pelo, sin camisa, tomando un respiro—  
 como el mío. *Al menos no soy solo yo*, pensé.
