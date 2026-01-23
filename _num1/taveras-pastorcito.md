@@ -14,25 +14,25 @@ bio: "Amado Marte Taveras was born in the Dominican Republic in 1992. At the age
 
 <div align="center">
 
-**Personajes:**
+**Personajes:**  
 
-Presentador
+Presentador  
 
-Pastorcito
+Pastorcito  
 
-Oveja 1
+Oveja 1  
 
-Oveja 2
+Oveja 2  
 
-Oveja 3
+Oveja 3  
 
-Vieja
+Vieja  
 
-Sofía
+Sofía  
 
-Aldeano
+Aldeano  
 
-Judas
+Judas  
 
 </div>
 
@@ -40,9 +40,9 @@ Judas
 
 <div align="center">
 
-_**Presentador**_
+**Presentador**
 
-</div>
+</div>  
 
 Hola, hola a todos. Me alegro de que hayan podido sacar su valioso tiempo para...conectarse. Ya no hay necesidad de salir de las casas para ver una obra de teatro. Ahora tenemos Zoom y _soon_ tendremos algo mejor. Anacaona Theater se complace en presentar esta obra que puede ser tildada de plagio, por la obra de Esopo "El niño que gritó lobo" pero fíjense que ésta se llama "El pastorcito que gritó los lobos" así que hemos sido más originales que Esopo. Además de que se está presentando por Zoom y tenemos actores de Broadway participando, ¿acaso Esopo tenía eso? sí, todos los actores que verán a continuación han participado en el Black Box Theater que quedaba en Broadway. Y como muchos otros se han abrigado en la calle para tildarse Broadway, ¿por qué no lo podemos hacer nosotros? Como host del Zoom tenemos a Judas. No se dejen asustar por el nombre que aquí nadie se llama Jesús. Bien, por favor, pongan en off sus cámaras y sonidos para que no vayan a interrumpir la obra. Sin más preámbulo: El niño que gritó los lobos (_aplausos_)
 
@@ -50,7 +50,7 @@ _Fondo de una granja. El PRESENTADOR tiene un fondo de universo._
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -58,7 +58,7 @@ Había una vez… un pastorcito muy bromista (_En la cámara el PASTORCITO. Est�
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -66,7 +66,7 @@ Ais, yo, el pa'torcito, me siento muy, pero muy, pero muyyyy aburrido (_se cruza
 
 <div align="center">
 
-_**Oveja 1:**_
+**Oveja 1:**
 
 </div>
 
@@ -74,7 +74,7 @@ Beeeeeee
 
 <div align="center">
 
-_**Oveja 2:**_
+**Oveja 2:**
 
 </div>
 
@@ -82,7 +82,7 @@ Meeeee
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -90,7 +90,7 @@ Meow
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -98,7 +98,7 @@ _**Pastorcito:**_
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -106,7 +106,7 @@ Con esta bombilla en la cabeza el pastorcito caminó cerca de los otros…(_Se e
 
 <div align="center">
 
-_**Sofía:**_
+**Sofía:**
 
 </div>
 
@@ -114,7 +114,7 @@ _**Sofía:**_
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -122,7 +122,7 @@ Sí, mi'ja dime.
 
 <div align="center">
 
-_**Sofía:**_
+**Sofía:**
 
 </div>
 
@@ -130,7 +130,7 @@ _**Sofía:**_
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -138,7 +138,7 @@ Lo solté en el baño...lávalo por favor, que cuando termine e'to voy pa'llá.
 
 <div align="center">
 
-_**Sofía:**_
+**Sofía:**
 
 </div>
 
@@ -146,7 +146,7 @@ _**Sofía:**_
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -154,7 +154,7 @@ Na' aquí haciendo una obra por Zoom, no hay más na'.
 
 <div align="center">
 
-_**Sofía:**_
+**Sofía:**
 
 </div>
 
@@ -162,7 +162,7 @@ _**Sofía:**_
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -170,7 +170,7 @@ _**Vieja:**_
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -178,7 +178,7 @@ _**Presentador:**_
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -186,7 +186,7 @@ _**Pastorcito:**_
 
 <div align="center">
 
-_**Oveja 1:**_
+**Oveja 1:**
 
 </div>
 
@@ -194,7 +194,7 @@ Beeeeeee
 
 <div align="center">
 
-_**Oveja 2:**_
+**Oveja 2:**
 
 </div>
 
@@ -202,7 +202,7 @@ Meeeee
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -210,7 +210,7 @@ Meow
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -218,7 +218,7 @@ Y el pastorcito empezó a gritar…
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -226,7 +226,7 @@ _**Pastorcito:**_
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -234,7 +234,7 @@ E'cucharon eso...están gritando...
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -242,7 +242,7 @@ _**Pastorcito:**_
 
 <div align="center">
 
-_**Oveja 1:**_
+**Oveja 1:**
 
 </div>
 
@@ -250,7 +250,7 @@ Beeeeeee
 
 <div align="center">
 
-_**Oveja 2:**_
+**Oveja 2:**
 
 </div>
 
@@ -260,7 +260,7 @@ _La imagen que estaba estática se cae. Se nota al hombre en la cama viendo Netf
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -270,7 +270,7 @@ _Todo está en silencio por 5 segundos._
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -278,7 +278,7 @@ _**Pastorcito:**_
 
 <div align="center">
 
-_**Oveja 1:**_
+**Oveja 1:**
 
 </div>
 
@@ -286,7 +286,7 @@ Beeeeeee
 
 <div align="center">
 
-_**Oveja 2:**_
+**Oveja 2:**
 
 </div>
 
@@ -294,7 +294,7 @@ Meeeee
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -304,7 +304,7 @@ _Todo en silencio por 5 segundos. Se escucha el sonido, que viene de la cámara 
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -312,7 +312,7 @@ Mamacijalla, qué diablo' tú haces que ni te veo en la obra ahora.
 
 <div align="center">
 
-_**Aldeano:**_
+**Aldeano:**
 
 </div>
 
@@ -320,7 +320,7 @@ _**Aldeano:**_
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -328,7 +328,7 @@ Coño, soy yo, te toca…
 
 <div align="center">
 
-_**Aldeano:**_
+**Aldeano:**
 
 </div>
 
@@ -336,7 +336,7 @@ _**Aldeano:**_
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -344,7 +344,7 @@ Este es el profesionalismo de los actores de New York. Un actor se prepara caraj
 
 <div align="center">
 
-_**Aldeano:**_
+**Aldeano:**
 
 </div>
 
@@ -352,7 +352,7 @@ A' dio' por eso toy por robarme el internet éste...deme unos 30 minu…
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -362,7 +362,7 @@ _La vieja prende la cámara, pero no ha prendido el audio_.
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -370,7 +370,7 @@ _**Vieja:**_
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -378,7 +378,7 @@ El aud…
 
 <div align="center">
 
-_**Oveja 1:**_
+**Oveja 1:**
 
 </div>
 
@@ -386,7 +386,7 @@ Viejola el audiooo...
 
 <div align="center">
 
-_**Oveja 2:**_
+**Oveja 2:**
 
 </div>
 
@@ -394,7 +394,7 @@ Encienda el audiooooo...
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -404,7 +404,7 @@ _Suena el teléfono de la cámara del presentador._
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -412,7 +412,7 @@ Viej…
 
 <div align="center">
 
-_**Sofía:**_
+**Sofía:**
 
 </div>
 
@@ -420,7 +420,7 @@ Hello, ¿quién habla…?
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -428,7 +428,7 @@ _**Presentador:**_
 
 <div align="center">
 
-_**Sofía:**_
+**Sofía:**
 
 </div>
 
@@ -436,7 +436,7 @@ _**Sofía:**_
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -444,7 +444,7 @@ Dile que no 'toy en casa…
 
 <div align="center">
 
-_**Sofía:**_
+**Sofía:**
 
 </div>
 
@@ -452,7 +452,7 @@ Ay perdone, ella no está en la casa, salió hace rato…
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -460,7 +460,7 @@ _**Presentador:**_
 
 <div align="center">
 
-_**Sofía:**_
+**Sofía:**
 
 </div>
 
@@ -468,7 +468,7 @@ Está bien…
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -476,7 +476,7 @@ Dile a tu madre que prenda el audio de la obra que no se le escucha na'.
 
 <div align="center">
 
-_**Sofía:**_
+**Sofía:**
 
 </div>
 
@@ -484,7 +484,7 @@ Ya le dije que mi madre salió...y se lo digo tan pronto llegue.
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -492,7 +492,7 @@ Ay, y yo hablando plepla sola...deja repeti' la baba e'ta... Pero eso' lobo son 
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -500,7 +500,7 @@ No vieja, no e' que se'té quedando tuerta. e' que no hay ningún lobo.
 
 <div align="center">
 
-_**El pastorcito:**_
+**El pastorcito:**
 
 </div>
 
@@ -508,7 +508,7 @@ Cayeron como una guanábana en mi truco. Debieron ver sus caras, estaban asustad
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -516,7 +516,7 @@ Eso no se hace 'chacho. Por poco me mata de un ataque…
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -526,7 +526,7 @@ _Se dispara la cámara de la oveja 1 que se dirige al baño mientras está hummi
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -536,7 +536,7 @@ _Se dispara la cámara de la oveja 2 que dejó su cámara en la sala de su casa 
 
 <div align="center">
 
-_**Oveja 2:**_
+**Oveja 2:**
 
 </div>
 
@@ -544,7 +544,7 @@ Damn, se comieron to' ya…
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -552,7 +552,7 @@ A-paguen sus fucking cámaras y audios…
 
 <div align="center">
 
-_**Oveja 2:**_
+**Oveja 2:**
 
 </div>
 
@@ -560,7 +560,7 @@ Ay…(Lo quita)
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -568,7 +568,7 @@ Y el pastorcito reía...
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -576,7 +576,7 @@ No se rieguen, vecinos. Es que estaba aburrido. To' ta' bien, ya pueden volver a
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -584,7 +584,7 @@ _**Vieja:**_
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -592,7 +592,7 @@ El pastorcito se reía de las palabras de la vieja. Volvió a su lugar con sus o
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -600,7 +600,7 @@ Ha sío un diita muy bueno, muy divertido, muyyyyy cansado. Verda' que sí, mis 
 
 <div align="center">
 
-_**Oveja 1:**_
+**Oveja 1:**
 
 </div>
 
@@ -608,7 +608,7 @@ Beee
 
 <div align="center">
 
-_**Oveja 2:**_
+**Oveja 2:**
 
 </div>
 
@@ -616,7 +616,7 @@ Meee
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -624,7 +624,7 @@ _**Oveja 3:**_
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -632,7 +632,7 @@ Carajo, ¿y ahora?, ¿Por qué estás leyendo el libreto?
 
 <div align="center">
 
-_**Oveja 1:**_
+**Oveja 1:**
 
 </div>
 
@@ -640,7 +640,7 @@ Es que no tuve tiempo de aprendérmelo to', son muchas líneas..
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -648,7 +648,7 @@ Pero si eres una simple oveja…
 
 <div align="center">
 
-_**Oveja 2:**_
+**Oveja 2:**
 
 </div>
 
@@ -656,7 +656,7 @@ moo
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -664,7 +664,7 @@ meow…
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -672,7 +672,7 @@ Ves, ellos están perfectos.
 
 <div align="center">
 
-_**Oveja 1:**_
+**Oveja 1:**
 
 </div>
 
@@ -682,7 +682,7 @@ _Entra a la sala de Zoom el aldeano._
 
 <div align="center">
 
-_**Aldeano:**_
+**Aldeano:**
 
 </div>
 
@@ -690,7 +690,7 @@ _**Aldeano:**_
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -698,7 +698,7 @@ _**Vieja:**_
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -706,7 +706,7 @@ _**Presentador:**_
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -714,7 +714,7 @@ Sofía, devuélvete ven, que era una falsa alarma, llama de nuevo...
 
 <div align="center">
 
-_**Aldeano:**_
+**Aldeano:**
 
 </div>
 
@@ -722,7 +722,7 @@ _**Aldeano:**_
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -730,7 +730,7 @@ Judas mutéalo…(Como presentador) Y así el pastorcito durmió tranquilo, muy 
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -738,7 +738,7 @@ _**Oveja 3:**_
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -746,7 +746,7 @@ Ovejitas, ovejitas, ¿escucharon eso?
 
 <div align="center">
 
-_**Oveja 1:**_
+**Oveja 1:**
 
 </div>
 
@@ -754,7 +754,7 @@ Beeeeee
 
 <div align="center">
 
-_**Oveja 2:**_
+**Oveja 2:**
 
 </div>
 
@@ -762,7 +762,7 @@ Moooooo
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -770,7 +770,7 @@ _**Pastorcito:**_
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -778,7 +778,7 @@ No marco, I am doing la oveja ahora…. Digo...guauuu
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -786,7 +786,7 @@ _**Pastorcito:**_
 
 <div align="center">
 
-_**Oveja 1:**_
+**Oveja 1:**
 
 </div>
 
@@ -794,7 +794,7 @@ Crick crick...crick crick…
 
 <div align="center">
 
-_**Oveja 2:**_
+**Oveja 2:**
 
 </div>
 
@@ -802,7 +802,7 @@ Sí.
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -810,7 +810,7 @@ Entonce' no estoy loco...Ay, Dio' mío tengo que avisar a todos...
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -818,7 +818,7 @@ Y así el pastorcito despertó sudando, con el corazón empujando su pecho, con 
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -826,7 +826,7 @@ _**Pastorcito:**_
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -834,7 +834,7 @@ _**Vieja:**_
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -844,7 +844,7 @@ _La vieja se persina._
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -852,7 +852,7 @@ Ay demonio, no ponga' mi nombre en tu boca, y mucho menos a Leonidas…¡Sofía�
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -860,7 +860,7 @@ _**Presentador:**_
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -868,7 +868,7 @@ _**Oveja 3:**_
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -876,7 +876,7 @@ _**Pastorcito:**_
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -884,7 +884,7 @@ _**Vieja:**_
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -892,7 +892,7 @@ _**Oveja 3:**_
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -900,7 +900,7 @@ Sí, eso e' un viralata rialengo jodiendo la noche...no me joda' má'
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -908,7 +908,7 @@ _**Pastorcito:**_
 
 <div align="center">
 
-_**Aldeano:**_
+**Aldeano:**
 
 </div>
 
@@ -916,7 +916,7 @@ El ardeano mira a las cámara y sonríe en folma de burla. Tú te piensa' que so
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -924,7 +924,7 @@ Guau, guau, guauuuu
 
 <div align="center">
 
-_**Aldeano:**_
+**Aldeano:**
 
 </div>
 
@@ -932,7 +932,7 @@ Sonríe de nuevo. Na'má e'cucho a un perro aullando dende hace rato. El aldeano
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -940,7 +940,7 @@ Coño, íbamos tan bien. Deja de leer las malditas acotaciones, actúalas… est
 
 <div align="center">
 
-_**Aldeano:**_
+**Aldeano:**
 
 </div>
 
@@ -948,7 +948,7 @@ Oh, mire u'te y yo peldío...mira, pastorcito, se mes importa un mojón, yo lo �
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -956,7 +956,7 @@ Y así el pastorcito, regresó con miedo a su casita y escuchaba los aullidos de
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -964,7 +964,7 @@ Ay no, que mal, que mal, que maaaaaal. Nadie me cree, y e'toy siendo sincero com
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -972,7 +972,7 @@ Guau guau, guau… (cómo si tocara puerta) Pastorsote, llegó tu lobote a asopl
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -980,7 +980,7 @@ No la abriré, no, no la abriré, nunca la abriré…
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -988,7 +988,7 @@ Wait, ¿Qué?... carajo, se han equivocado de libreto, esto no es el lobo y los 
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -996,7 +996,7 @@ Y el lobo sopló y sopló hasta que destruyó la casa del pobre cerdito. El prim
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -1004,7 +1004,7 @@ Guau, guau, guau… abran, abran, abran… si no quieren que los abra…
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -1012,7 +1012,7 @@ Rápido cerditos, rápido vecino, hay que cerrar la puerta con el pestillo…
 
 <div align="center">
 
-_**Oveja 1:**_
+**Oveja 1:**
 
 </div>
 
@@ -1020,7 +1020,7 @@ _**Oveja 1:**_
 
 <div align="center">
 
-_**Aldeano:**_
+**Aldeano:**
 
 </div>
 
@@ -1028,7 +1028,7 @@ Click, click, click, dice aquí...
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -1036,7 +1036,7 @@ Rápido pasen el tusbo para cerrar la puerta…(Se pasan un pequeño tubo por to
 
 <div align="center">
 
-_**Oveja 2:**_
+**Oveja 2:**
 
 </div>
 
@@ -1044,7 +1044,7 @@ Yo creo que estamos fine right here…
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -1052,7 +1052,7 @@ Pastorsote, pastorsote, tú no me conoces defendiéndote con un tubo, sigue corr
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -1060,7 +1060,7 @@ _**Presentador:**_
 
 <div align="center">
 
-_**Aldeano:**_
+**Aldeano:**
 
 </div>
 
@@ -1068,7 +1068,7 @@ _**Aldeano:**_
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -1076,7 +1076,7 @@ Idiota escucha, soy yo…
 
 <div align="center">
 
-_**Aldeano:**_
+**Aldeano:**
 
 </div>
 
@@ -1084,7 +1084,7 @@ O mire u'te, po' pan'de cogió u'te que no lo veo reguindao en la camara e'ta
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -1092,7 +1092,7 @@ Están en el libreto equivocado, malditos estúpidos…
 
 <div align="center">
 
-_**Aldeano:**_
+**Aldeano:**
 
 </div>
 
@@ -1100,7 +1100,7 @@ Se me ta' decalgando el celular, lo voy a dejar que no quiero quedarle mal con s
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -1108,7 +1108,7 @@ Y soplaré y soplaré hasta que se le acabe la batería a tu cel….
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -1116,7 +1116,7 @@ Y el lobo derrumbó la casa de madera del segundo cerdito. Corrieron y corrieron
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -1124,7 +1124,7 @@ _**Presentador:**_
 
 <div align="center">
 
-_**Sofía:**_
+**Sofía:**
 
 </div>
 
@@ -1132,7 +1132,7 @@ Sir, ya le dije que ma' no está…
 
 <div align="center">
 
-_**Vieja:**_
+**Vieja:**
 
 </div>
 
@@ -1140,7 +1140,7 @@ _**Vieja:**_
 
 <div align="center">
 
-_**Sofía:**_
+**Sofía:**
 
 </div>
 
@@ -1148,7 +1148,7 @@ Como le decía, ella no se encuentra. Y estoy viendo algo señor…
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -1156,7 +1156,7 @@ Me puedes hacer el favor de decirle a tu madre, cuando llegue, que le diga a ese
 
 <div align="center">
 
-_**Sofía:**_
+**Sofía:**
 
 </div>
 
@@ -1164,7 +1164,7 @@ _**Sofía:**_
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -1172,7 +1172,7 @@ Ay, diosito protéjenos de este lobo feroz que quiere acabar con to'…
 
 <div align="center">
 
-_**Oveja 1:**_
+**Oveja 1:**
 
 </div>
 
@@ -1180,7 +1180,7 @@ No hay qué temer. Mi casa es de ladrillo….
 
 <div align="center">
 
-_**Aldeano:**_
+**Aldeano:**
 
 </div>
 
@@ -1188,7 +1188,7 @@ _**Aldeano:**_
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -1196,7 +1196,7 @@ El lobo, el lobo, va a acabar con mi casa…página 30...mi casa, mi casita (cam
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -1204,7 +1204,7 @@ Pastorcito y cerditos déjenme entrar o aquí mismo me suicido…
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -1212,7 +1212,7 @@ No te dejaré entrar lobo embustero, ¿y por qué harías eso?
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -1220,7 +1220,7 @@ Porque yo... porque yo….te amo. (música de revelación de amor)
 
 <div align="center">
 
-_**Aldeano:**_
+**Aldeano:**
 
 </div>
 
@@ -1228,7 +1228,7 @@ _**Aldeano:**_
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -1236,7 +1236,7 @@ _**Pastorcito:**_
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -1244,7 +1244,7 @@ Siempre lo he hecho. Te amo desde que era un pequeño gato, y ahora que soy más
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -1252,7 +1252,7 @@ Pero tú eres un lobo, no podemos amarnos…
 
 <div align="center">
 
-_**Oveja 3:**_
+**Oveja 3:**
 
 </div>
 
@@ -1260,7 +1260,7 @@ No importa, no importa, amor es amor, yo te quiero así, contra viento y marea�
 
 <div align="center">
 
-_**Sofía:**_
+**Sofía:**
 
 </div>
 
@@ -1268,7 +1268,7 @@ _**Sofía:**_
 
 <div align="center">
 
-_**Pastorcito:**_
+**Pastorcito:**
 
 </div>
 
@@ -1278,7 +1278,7 @@ _Se escucha todo por la cámara de judas. Hay un humo en su cámara, como si est
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -1286,7 +1286,7 @@ _**Presentador:**_
 
 <div align="center">
 
-_**Judas:**_
+**Judas:**
 
 </div>
 
@@ -1294,7 +1294,7 @@ Ehhhhhh, who's this brah…?
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -1302,7 +1302,7 @@ Soy yo, coño…
 
 <div align="center">
 
-_**Judas:**_
+**Judas:**
 
 </div>
 
@@ -1310,7 +1310,7 @@ Oh, it's you...wassup brah?
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -1318,7 +1318,7 @@ tonto, pon atención que me has sacado...
 
 <div align="center">
 
-_**Judas:**_
+**Judas:**
 
 </div>
 
@@ -1326,7 +1326,7 @@ _**Judas:**_
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 
@@ -1334,7 +1334,7 @@ Idiota, me has sacado del meeting, del Zoom, de mí obra.
 
 <div align="center">
 
-_**Judas:**_
+**Judas:**
 
 </div>
 
@@ -1342,7 +1342,7 @@ I mean, bro, me llamo Judas, Like what the fuck did you expect me to do brah?
 
 <div align="center">
 
-_**Presentador:**_
+**Presentador:**
 
 </div>
 

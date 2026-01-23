@@ -8,7 +8,6 @@ orden: 18
 bio: "Luis Fernando Cordero Torrico (Bolivia, 1978). Escribe: poesía, relato, microrrelato, epístola y cuento. Funda y dirige la revista de poesía “Margen de Luz” del 2020 al 2022. Obtiene el segundo lugar en el certamen: “Cuentos de terror”, lanzado por la editorial argentina “Laia” (2023). Amplia participación en antologías, revistas internacionales."
 ---
 
-## UNA PIEDAD
 ## (Poema teatral)
 ### (Monólogo)
 

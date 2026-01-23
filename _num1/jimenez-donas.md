@@ -8,8 +8,6 @@ orden: 7
 bio: "Diana Thalia Jiménez Martínez (Toluca, 1994) Ha publicado en revistas como Punto de Partida, Luvina, LIJ Ibero, Casapaís, La Jornada Semanal, y en la antología Una bolsa de semillas. Ciencia ficcion feminista en Abya Yala (Coding Rights, 2025). Fue ganadora del premio de literatura epistolar Cartas a Rosario (UNAM, 2024)."
 ---
 
-## A veces me gusta comer donas
-
 _Dime qué comes y te diré quién eres_, reza una frase popular que se refiere a los hábitos alimenticios y a la relación de estos con la salud de las personas. No solo eso, la comida nos dice mucho sobre una persona y su contexto. A veces también sobre las heridas que carga consigo. 
 
 Tengo una amplia lista de todas las cosas que no me gusta comer: las hamburguesas, el helado, el pollo, las albóndigas, el picadillo, el mole de olla, la gelatina, el refresco, los caramelos macizos, el bistec, el jamón; son sólo algunas de las que me disgustan. Varias tienen razones: por una parte, algunas me recuerdan a la comida que me daban en el hospital, las múltiples veces que me encontraba recuperándome de la radiación o de diversas cirugías, pero otras tienen motivos distintos, como el pollito que tuve de mascota cuando era niña, las veces que me mordí la lengua mientras comía, o que  me enfermé del estómago y le atribuyo la culpa a ese alimento.
