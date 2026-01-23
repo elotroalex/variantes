@@ -123,11 +123,10 @@ nav.scrolled {
 }
 
 .masthead.home.banner {
-    background-image: url('/variantes/images/banner-outline.png');
     animation: firstImage ease 4s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
-    background-position-y: center; 
+    background-position-y: center;
 }
 
 @keyframes firstImage {
@@ -143,9 +142,8 @@ nav.scrolled {
     animation: finalImage ease 4s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
-    background-image: url('/variantes/images/banner-color.jpeg');
     background-size: cover;
-    background-position-y: center; 
+    background-position-y: center;
     height: 100vh;
 }
 
