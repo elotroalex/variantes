@@ -10,13 +10,13 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul id="navigation-bar" class="navbar-nav ms-auto mb-2 mb-lg-0">
         {% assign links = site.data.navigation %} {% for link in links %} {% if link.sublinks %}
-        <li class="menu-item dropdown nav-item">
-          <a href="#" class="dropdown-button" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span style="font-size: 0.66rem; padding-left: 0.2rem"> &#x25BC;</span></a>
-          <div class="dropdown-menu">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{ link.title }}</a>
+          <ul class="dropdown-menu">
             {% for sublink in link.sublinks %}
-            <a class="nav-link {% if sublink.url == page.url %}active{% endif %}" href="{{ sublink.url }}">{{ sublink.title }}</a>
+            <li><a class="dropdown-item {% if sublink.url == page.url %}active{% endif %}" href="{{ sublink.url }}">{{ sublink.title }}</a></li>
             {% endfor %}
-          </div>
+          </ul>
         </li>
         {% else %}
         <li class="menu-item nav-item">

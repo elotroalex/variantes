@@ -8,8 +8,6 @@ orden: 11
 bio: "Soy licenciado en Artes de la Escritura en la UNA. Guío los talleres “Cuerpo y Escritura” desde el 2021. En 2022, gané el tercer premio en el concurso nacional de crónicas de ICANA. Fui seleccionado en el último FAUNA por la categoría Poesía y Narrativa breve."
 ---
 
-## En todas partes con vos
-
 Amiga, no sabés lo que me agradezco haber conseguido trabajo, en la entrevista dije todo sí… por él, obvio. ¡Ay, Gerardo! cómo me calentás, Gerardo. _I want to be with you everywhere_. Me pagan horrible, me explotan, pero lo puedo ver todos los días. Él así, todo sexy, lookeado de encargado. Yo de Mirko, o Natasha, según el día. GERARDO, no sé cómo ponerlo en palabras. Algunes me pueden decir: “_daddy issues_”, puede ser; otres me dirán, “¿Ese te gusta? Con razón.” Yo no le debo explicaciones a nadie.  
 
 Él tendrá unos cuarenta años, es pelado y tiene nariz de buitre, además de una familia divina que a veces viene a comer y, obvio, les atiendo yo. Lo que compartimos es tan especial. Así como cositas divertidas para contarte: una vieja habitúe adicta al _aperol spritz_, si me ve, me pregunta por Naty cuando voy de Mirko, y más de una vez le doy el gusto y salgo lookeada a saludarla, ella feliz. Otra es que empecé a fumar por Gerardo, para tomarme mis descansos que, sino no hay, pero _especially_ para compartir cinco minutos con él a solas, que fuma como ex adicto. Ay, cómo me pongo ahí paradita al lado de su cuerpo. A veces nos quedamos en silencio mirando los dos el mismo árbol prendido fuego por el atardecer o charlamos de las reservas y hablamos mal de alguno del staff, principalmente de la Bichi, la encargada del mediodía, que el salón siempre lo deja hecho un caos que tenemos que arreglar nosotres, turno noche.  

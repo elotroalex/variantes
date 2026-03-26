@@ -63,11 +63,6 @@ h1, h2, h3, h4 {
     -webkit-text-stroke: none;
 } 
 
-.page p {
-    font-size: 2rem;
-    color: red;
-}
-
 // Navbar
 
 .home-nav-title, .navbar-brand {
@@ -123,23 +118,15 @@ nav.scrolled {
     border-bottom: 2px solid black;
 }
 
-.masthead.event.banner {
-    height: 80vh;
-    min-height: 200px;
-    background-size: cover;
-    border-bottom: 0;
-}
-
 .masthead.short {
     margin: 20vh 0 10vh 0;
 }
 
 .masthead.home.banner {
-    background-image: url('/variantes/images/banner-outline.png');
     animation: firstImage ease 4s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
-    background-position-y: center; 
+    background-position-y: center;
 }
 
 @keyframes firstImage {
@@ -155,9 +142,8 @@ nav.scrolled {
     animation: finalImage ease 4s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
-    background-image: url('/variantes/images/banner-color.jpeg');
     background-size: cover;
-    background-position-y: center; 
+    background-position-y: center;
     height: 100vh;
 }
 
@@ -175,20 +161,6 @@ nav.scrolled {
     animation: fadeInAnimation ease-in 3s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
-}
-
-.atspanport {
-    animation: fadeInAnimation ease-in 2s;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards;
-    font-size: 1.6rem;
-    color: #00365b;
-    // text-shadow: 1px 0px 1px black;
-}
-@media screen and (max-width: 767px) {
-    .atspanport {
-        display: none;
-    }
 }
 
 .masthead h1 {
@@ -217,12 +189,7 @@ nav.scrolled {
 }
 
 .masthead.page h1 {
-    font-size: 1.6rem;
-}
-
-.masthead.event h1 {
-    font-family: 'Mallory Book';
-    -webkit-text-stroke: 2px #00365b; /* width and color */
+    font-size: 4rem;
 }
 
 .masthead .lead {
@@ -244,13 +211,13 @@ nav.scrolled {
 
 // Quotes
 blockquote {
-    // font-family: 'Mallory Light';
     font-size: 1.2rem;
     color: #00365b;
-    margin: 0;
+    margin: 0 0 0 1rem;
+    font-style: italic;
 }
 
-//  Featured Events
+// Featured Images
 
 .featured {
     min-height: 300px;
@@ -268,25 +235,8 @@ blockquote {
     padding: 0;
 }
 
-// Buttons
-
 button {
     font-family: 'Mallory Book' !important;
-}
-
-span.series {
-    display: block;
-    margin-top: 1rem;
-    font-size: 1.8rem;
-    text-transform: uppercase;
-    letter-spacing: .1rem;
-}
-
-span.series-thumb {
-    display: block;
-    font-size: 0.8rem;
-    text-transform: uppercase;
-    letter-spacing: .1rem;
 }
 
 .caption {
@@ -296,15 +246,6 @@ span.series-thumb {
 .u-email {
     text-decoration: none;
 }
-
-blockquote {
-    margin-left: 1rem;
-    font-style: italic;
-}
-
-
-
-
 
 
 

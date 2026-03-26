@@ -8,8 +8,6 @@ orden: 12
 bio: "Gabriel Bustilho is a poet, researcher, and editor. He is currently a PhD candidate in the Graduate Program in Literary Science at the Federal University of Rio de Janeiro, developing a research project on myth based on the writings of Georges Bataille and documents from the Surrealist movement, with publications in both Brazilian and international journals. As a poet, he has published individual poems and the book No dia após, which was a semifinalist for the Oceanos Prize. He has worked as an editor for both academic and poetry magazines."
 ---
 
-## floralis generica
-
 1.  
 mesmo de longe dava pra ver era menos  
 pólen que poeira de alumínio o conjunto  

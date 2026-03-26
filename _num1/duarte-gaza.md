@@ -8,8 +8,6 @@ orden: 15
 bio: "Juan David Cruz Duarte (Bogotá, Colombia, 1986). His work has appeared in Máquina Combinatoria, Burningword, and The Dead Mule School of Southern Literature. He is the author of Dream a little dream of me: cuentos siniestros, La noche del fin del mundo, and Léase después de mi muerte."
 ---
 
-## Gaza
-
 <div align="right">
 <em>Para escribir una poesía que no sea política,
 debo escuchar a los pájaros,

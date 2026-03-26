@@ -8,8 +8,6 @@ orden: 4
 bio: "Alexandre Bruno is a poet, translator, and researcher from Rio de Janeiro, Brazil. He is currently the co-editor of Jornal Plástico Bolha, a journal of contemporary Brazilian poetry published since 2006."
 ---
 
-## Fotograma para Cindy Sherman
-
 Ela deixou a plantação de azeitona no coração  
 da Califórnia em busca daquela vertigem  
 de amor no topo do Empire State pensando  

@@ -28,6 +28,7 @@ mientras una abuela escondía rosarios dentro de su calcetín raído
 y un corrido pirata rasgaba la radio policial  
 cantando que la herida también es un himno.  
 
+---
 
 ##  Balada del jornalero fantasma
 
