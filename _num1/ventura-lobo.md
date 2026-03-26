@@ -1,12 +1,14 @@
 ---
 layout: work
-title: "Viejo lobo de mar"
+title: "Viejo lobo de mar / Un hombre, un lobo: la fuerza, el abismo"
 creators: "Adriana Ventura"
 date: 2025-01-01
 issue: 1
 orden: 1
 bio: "Escritora y docente. Realizó estudios literarios en la Universidad Autónoma de Guerrero, en la UAM, la UNAM y en el Centro Morelense de las Artes. Es autora de Operación doméstica (Ícaro ediciones, 2022), Boceto de una vida sin casa (Praxis, 2018), Fuera de lugar (Bitácora de vuelos, 2022), Café Bausch (Colección La Ceibita-FETA, 2016), entre otros. Ganó el II Premio Latinoamericano de Poesía Marta Eugenia Santamaría Marín 2022. Obtuvo el Premio Estatal de Poesía “María Luisa Ocampo” (2016), el Premio de Poesía y ensayo Joven de Guerrero. Fue becaria del Programa Jóvenes creadores del FONCA en dos ocasiones (2016 y 2019). "
 ---
+
+## Viejo lobo de mar
 
 Tuve en el pasado tres pelos de tonta  
 por meterme en la cama del que no quería monstruos.
@@ -47,6 +49,8 @@ _Ya es bastante con el mar._
 
 ¿Qué se puede hacer con los curiosos,  
 qué con los lobos de mar?
+
+<br>
 
 ## Un hombre, un lobo: la fuerza, el abismo
 
